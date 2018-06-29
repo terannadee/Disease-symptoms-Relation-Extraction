@@ -1,7 +1,6 @@
 import re
 from Bio import Entrez
 from Bio import Medline
-from vector_space_modal import do_search
 from ext_content import ext_relations
 
 
@@ -30,16 +29,13 @@ def ext_articles():
         records = Medline.parse(h)
         # print(records)
 
-        abstracts = []
+        article_ids = []
         for record in records:
             # print(record)
             pmid = record.get('PMC')
-            ab = record.get('AB')
             if pmid:
-                # print(pmid)
-                abstracts.append((pmid, ab))
-        # print(abstracts[0])
-        article_ids = do_search(abstracts, term)
+                article_ids.append(pmid)
+        print(article_ids)
         for article_id in article_ids:
             extracted_relations = ext_relations(article_id, term)
             print(extracted_relations)
@@ -49,4 +45,4 @@ def ext_articles():
     return relations
 
 
-# ext_articles()
+ext_articles()

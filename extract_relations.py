@@ -45,7 +45,7 @@ def do_search():
         for result in results:
             # print result
             link = result.get('link')
-            # print(link)
+            print(link)
 
             urllib3.disable_warnings()
             hdr = {
