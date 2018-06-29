@@ -1,0 +1,2680 @@
+CD28
+5-lipoxygenase
+CD4 epitope
+erythroid transcription factor
+GATA-1
+estrogen receptor
+transcription factor
+BZLF-1
+RAZ
+human Stat protein
+interleukin-2
+E2F-1
+cyclin-like DNA repair enzyme
+uracil-DNA glycosylase
+IL-2
+IL-12
+AML1-related transcription factor
+PEBP2
+IFN-gamma
+erythropoietin
+shared receptor motif
+common Stat protein
+IL-4
+IL-7
+IL-13
+IL-15
+DR-nm23
+interferon-gamma
+MIP1 alpha nuclear protein
+MNP
+(AND Lyn tyrosine kinase Jak2 tyrosine kinase)
+Ras-Raf-1-MAP kinase
+retinoblastoma gene product
+transcriptional activation
+human cytomegalovirus IE2 protein
+nucleoside diphosphate kinase
+RB
+E2F-1 binding protein
+interleukin 12
+STAT4
+glucocorticoid receptor
+human glucocorticoid receptor
+pp90rsk
+pokeweed mitogen
+cytokine
+NGFI-B/nur77-related transcription factor
+NF-kappa B
+I kappa B alpha
+phosphatase 2A-sensitive site
+LFA-3
+B7
+AP-1
+transcription factors
+Ah receptor
+B cell transcription factor
+BSAP
+nm23 protein
+bactericidal/permeability-increasing protein
+GM-CSF
+surface immunoglobulin receptor
+T cell antigen receptor
+tyk2
+Jak1
+STAT1 alpha
+STAT3 complex
+CD30
+carboxyl terminus
+P-selectin
+monocyte chemotactic protein-1
+p21ras
+nuclear factor-chi B
+latent membrane protein-1
+thyrotropin receptor
+nuclear T cell protein
+TCF-1
+Nm23H2
+signal response domain
+platelet-activating factor
+interaction site
+defective transcription factor
+Epstein-Barr virus ZEBRA protein
+heterologous activation region
+interleukin 4
+transcription (Stat) protein
+TCDD receptor
+PU.1
+Spi-1
+Spi-B
+JAK2 tyrosine kinase
+Stat1 alpha
+tat mutation
+transcription factor Oct-2A
+high mobility group protein
+I/Y
+Epstein-Barr virus latent protein
+IL-5
+NF-E1
+YY1
+interleukin (IL)-10
+LMP-1
+inhibitory molecule I kappa B alpha
+HIV-1 Tat
+J kappa
+lymphocyte glucocorticoid receptor
+NFATp
+Epstein-Barr virus nuclear antigen 2
+EBNA-2
+Ig
+IL-6
+NF-AT complex
+steroid binding domain
+inducible factor
+cellular transcription factor E2F
+NF-kappa B moiety
+p105
+Fos
+Jun
+retinoic acid receptor
+SP1
+chaperone hsp90
+helix-loop-helix
+PAS domain
+protein kinase C
+C-terminus
+B cell activator
+Oct-2
+activation domain
+stat3
+NF-kappa B/Rel
+RelA
+T cell receptor complex
+tumor necrosis factor alpha
+transcription factor Sp1
+zinc finger protein
+Drosophila developmental control protein
+IL-2 receptor alpha-chain
+PEBP2/CBF
+AML1
+nuclear factor kappa B
+protein kinase C-zeta
+serine protease
+nuclear factor-kappa B subunit p65
+OBF-1
+novel B cell-specific coactivator
+octamer-binding protein
+interleukin-6
+nuclear NF-kappa B
+steel factor
+ICAM-1
+Tax1
+LFA-1
+matrix metalloproteinase 9
+G1-regulating protein
+EBNA2
+IL-1 receptor
+Myc-Max heterodimer
+Epstein-Barr virus SM protein
+phosphotyrosine-containing protein
+AIR-1 trans-activator
+Elf-1
+HMG-I(Y)
+NF-kappa B family protein
+Kruppel-related zinc finger protein
+PAF
+human PAF receptor transcript 1
+autoantigen La/SS-B
+CD40
+nuclear factor-kappa B
+c-Rel/p65 heterodimers
+1,25-Dihydroxyvitamin D3 receptor
+transcription factor AP-1
+HIV-1 Nef
+Ets family
+ERP
+ets transcription factor/oncoprotein family
+tissue-specific transcriptional activator
+EBF
+Olf-1
+calcineurin
+Pit-1
+nuclear factor
+POU-specific homeodomain
+B-cell transcription factor
+JNK
+NF-kappa B/Rel subunit
+prostaglandin E2
+nuclear protein
+NF(P)
+NF-AT
+vascular cell adhesion molecule-1
+E-box-binding repressor
+basic helix-loop-helix protein
+serine/threonine kinase
+c-Fos
+cytokine receptor
+nuclear factors NF-IL6
+hepatic leukemia factor
+HLF
+ZAP-70 tyrosine kinase
+CD45
+T cell receptor
+c-Rel/p65 heterodimer
+extracellular matrix protein
+tenascin
+human immunodeficiency virus type 1 Nef protein
+superantigen
+Tat
+human interleukin-13
+interleukin-4-dependent transcription factor
+NF-IL4
+DNA binding motif
+interferon-gamma-induced nuclear binding factor
+heterodimerization partner
+thyroid hormone receptor
+v-abl protein tyrosine kinase
+cyclophilin B-binding protein
+IL-3
+M-CSF receptor
+C-FMS
+human immunodeficiency virus type 1 Tat
+I kappa B gamma isoform
+LBR
+integral protein
+CD38 antigen
+retinoic acid receptor-alpha
+tumor necrosis factor-alpha
+IL-beta
+interleukin-4-induced transcription factor
+IL-4 Stat
+leukemia inhibitory factor
+anti-MHC class II antibody
+Sp1
+human CD14
+androgen binding site
+corticosteroid receptor
+retinoic acid receptor alpha
+thrombin
+hsp70
+phospholipase D
+Epstein-Barr virus latent membrane protein
+LMP1
+cell surface marker
+novel membrane receptor
+50 kDa protein
+CD4 molecule
+progesterone receptor
+p50
+CD4
+Tat-binding protein 7
+26S protease
+NFKB2
+lyt-10
+c-Rel
+IgM
+IgD
+trans-acting activator
+human CD5 antigen
+MS-2
+tissue factor
+TF
+tumor necrosis factor alfa
+TNF-alpha
+PML
+neutral sphingomyelinase
+c-erb B-2
+interleukin-1 beta
+general initiation factor
+BCL-6
+cell adhesion molecule
+CD62E
+CD11b/CD18
+CD106
+SCL protein
+protein tyrosine phosphatase
+nuclear factor-kappaB
+Raf kinase
+serum response factor
+ELK-1 protein
+Bcl-2
+Tax
+NF-kappa B2 p100 gene product
+pml/RAR-alpha hybrid protein
+RelB
+surface Ig
+ER
+EGFR
+TRAF1
+TRAF2
+TRAF3
+Epstein-Barr virus-encoded dUTPase
+catalytic domain
+pp56(lck)
+regulatory domain
+aldosterone receptor
+macrophage transcription factor
+macrophage colony-stimulating factor receptor
+Stat5
+DR3
+death domain-containing receptor
+TNFR-1
+CD95
+p52
+SLP-76
+interferon alpha
+human myeloid cell nuclear differentiation antigen
+YB-1
+NF-kappaB
+Btk
+Sp1-
+Spi-1/PU.1-family member
+Epstein-Barr virus transactivator
+rel
+Pan protein
+endogenous NF-kappa B p50 subunit
+NF-ATc
+NF-ATp
+low-density lipoprotein
+p21Ha-ras
+I kappa B/MAD3
+kinase domain
+ZAP-70
+nuclear NF-ATp
+NF-kappa B transactivator
+p65
+cytoplasmic inhibitor
+ankyrin motif
+Egr-1
+Stat3
+ligand-induced, tyrosine-phosphorylated docking site
+interleukin-10 receptor intracellular domain
+adult beta-globin gene activator protein
+EKLF
+E3
+hematopoietic-specific transcript
+nuclear factor of activated T cells
+interleukin 1beta
+c-Jun delta-domain
+NFAT1
+human TAFII 105
+cell type-specific TFIID subunit
+hTAFII130
+Interleukin-6
+retinoblastoma protein
+soluble factor
+immunosuppressive cytokine
+TGF-beta 2
+E2A-HLF chimaeric transcription factor
+NGFI-B/nur77 family
+interferon-alpha
+c-Jun NH2-terminal kinase
+NFAT
+NFATc
+Grb2-binding protein
+interferon isotype
+GATA family protein
+47 kDa factor
+beta subunit
+human proximal sequence element-binding transcription factor
+(AND RNA polymerase II RNA polymerase III)
+helix-loop-helix protein
+Id-3
+HOCI
+POZ/zinc-finger protein
+sequence-specific transcriptional repressor
+NF-kappa B transcription factor
+ligand-binding domain
+human retinoic acid receptor alpha
+(AND IL4 receptor IL13 receptor)
+gamma c chain
+calcineurin mutant
+immediate-early BRLF1 protein
+repair/transcription factor
+TFIIH
+Oct-2 transcription factor
+ATF-2/JUN
+Stat 5b
+ErbB
+FosB
+JunB
+B-cell-specific coactivator
+OCA-B
+nuclear factor of activated T cells-1
+activator protein (AP)-1
+phosphatidylinositol 3-kinase
+HIV protease
+Alpha 4 beta 1 (CD49d/CD29) integrin
+extracellular signal-related kinase
+c-Jun N-terminal kinase
+STAT1
+STAT5
+interleukin-7 receptor alpha chain
+Ca2+/calmodulin kinase type IV/Gr
+BCL-2
+human T-cell lymphotropic virus type 1 tax transactivator
+transcription factor IIA
+Stat1
+IL-10
+NF-IL6
+core-binding factor
+tyrosine kinase
+interferon
+retinoic-acid receptors type alpha
+IFN-alpha
+JAK
+STAT
+endogenous vitamin D3 receptor
+retinoid X receptor
+Rex
+nuclear export signal
+granulocyte-macrophage colony-stimulating factor
+94-kD STAT5A
+80-kD STAT5A isoform
+PML/RARalpha
+C/EBP activator
+latent membrane protein
+p53
+core binding factor
+interleukin-3
+IFN-gamma receptor beta-chain
+nuclear transcriptional factor
+JAK2 Janus kinase
+interleukin-10
+protein kinase C substrate
+CIITA
+STAT factor
+GATA-3
+MEK1
+extracellular signal-regulated kinase
+myosin light chain kinase
+IL-1 beta
+c-fos and c-jun protein
+octamer binding factor
+coactivator
+NF-kappaB protein
+inducible regulator
+monocyte/macrophage tumor necrosis factor
+soluble tumor necrosis factor receptor
+human T-cell leukemia virus type 1 tax protein
+Retinoid X Receptor alpha
+p13MTCP1
+STAT2
+STAT3
+signalling complex
+HIV-1 tat
+hematopoietic cell-specific transcription factor
+STAT family
+EGR1
+p93fes
+STAT1 p91
+STAT3 p92
+GA-binding protein
+intracellular signal transduction molecule
+cyclic AMP-responsive member
+CREB/ATF family
+mammalian histone deacetylase
+yeast transcriptional regulator
+Rpd3p
+alpha interferon
+gamma interferon
+tyrosine phosphatase
+RAR-RXR
+DNA-binding phosphoprotein
+IkappaBbeta
+tax protein
+p16
+interferon regulatory factor family transcription factor
+ICSAT/Pip/LSIRF
+doxepin-sensitive H1-histamine receptor
+B cell-specific transcriptional coactivator
+transcriptional repressor
+ICER
+Ca2+-modulating cyclophilin ligand
+Epstein-Barr virus-encoded nuclear antigen EBNA-5
+transcriptional repression domain
+lymphoid-specific transcription factor
+oct-2A
+interleukin 3
+Lck
+beta-galactoside-binding lectin
+galectin-3
+collagenase
+c-Jun
+reconstituted ubiquitinylating enzyme
+murine B-cell specific transcriptional coactivator
+Bob1
+HIV glycoprotein 120
+HTLV-I Tax
+human proteasome
+protein phosphatase 2A
+FcepsilonRIIb receptor
+CD23
+IKK
+interleukin-11
+thrombopoietin
+STAT6
+interleukin-10-stimulated STAT molecule
+ETS transcription factor
+mineralocorticoid receptor
+72-kilodalton major immediate-early protein
+protein tyrosine kinase
+human T-cell leukemia virus type 1 Tax
+erythroid Kruppel-like factor
+TNF
+JunD
+stress-activated protein kinase
+mitogen-activated protein kinase
+human macrophage inflammatory protein-1alpha
+tumor necrosis factor
+interleukin-7
+Bcl-x
+Bfl-1/A1
+eosinophil granule major basic protein
+G-protein-coupled chemoattractant receptor
+Pax5
+interleukin 10
+divergent protein kinase
+MNDA
+peroxisome proliferator-activated receptor activator
+activated SHP1
+C/EBPbeta
+chemotactic factor
+GATA transcription factor
+putative steroid binding domain
+human mineralocorticoid receptor
+heat shock protein
+vitamin D receptor
+IkappaB kinase
+IL-13Ralpha1 chain
+immunosuppressive factor
+CDC42 effector
+N-WASP
+Shigella flexneri IcsA protein
+Arp2/3 complex
+c-Maf
+AML1 (CBFalpha2)
+B cell-specific activating protein (BSAP/PAX5)
+class A macrophage scavenger receptor
+interleukin-8
+bacterial lipoprotein
+toll-like receptor-2
+BCL-6 protein
+transcription factor NF-kappa B
+p23
+hsp90
+immunophilin
+progesterone receptor complex
+nuclear NF-kappaB
+microbial lipoprotein
+toll-like receptor
+lipopolysaccharide-activated toll-like receptor 2
+C/EBP beta
+IFN regulating factor-1 (IRF-1)
+nuclear factor-90
+double-stranded RNA-dependent protein kinase
+PKR
+glucocorticoid receptor beta
+proteolysis-resistant inhibitor
+IkappaB-alphaS32/36A
+NF-ATc isoform
+beta-catenin-lymphoid enhancer factor 1 complex
+Epstein-Barr virus oncoprotein latent membrane protein 1
+tumor necrosis factor receptor-associated protein
+TRADD
+receptor-interacting protein
+RIP
+Aiolos
+Oct1
+human T-cell leukemia virus type 1 Tax protein
+anti-inflammatory mediator
+interleukin-4 receptor alpha chain
+phagocyte NADPH oxidase
+DRIP coactivator complex
+vitamin D3 receptor
+Vav
+Rel/NF-kappaB
+Jagged1
+Notch receptor
+CREB/ATF
+Ikaros
+histone deacetylase complex
+protein kinase B
+c-Akt
+EPO
+Id3
+CDR2-loop
+extracellular domain 1
+lymphotoxin-beta receptor
+membrane-bound TNF-alpha
+monoclonal anti-endothelial cell antibody
+NF of activated T cell
+CBP/p300
+latent membrane protein 1
+JAK3
+STAT protein
+IkappaB-alpha
+USF/c-Myc
+Yin-Yang 1
+CXCR4
+coreceptor
+adhesion molecule
+HSP70
+Tax mutant
+fibroblast growth factor-1
+FGF-1
+(AND Th1 type cytokine Th2 type cytokine)
+HBsAg
+HBxAg
+erythropoietin receptor
+c-Kit
+SOCS-3
+REF-1
+RanBP1
+CRM1
+nuclear pore complex
+c-Myc
+E1A
+IL-2R associated JAK/STAT protein
+p70(s6k)
+E2F
+AP-2
+acid sphingomyelinase
+lipopolysaccharide-induced transcription factor
+human pterin carbinolamine dehydratase/dimerization cofactor
+HNF1
+HePTP
+p38 mitogen-activated protein kinase
+interferon-beta
+NF-kappaB p50/p65 heterodimer
+thrombin-induced p65 homodimer
+Smad6
+Smad7
+interleukin-2 receptor alpha-chain
+(AND type I interferon type II interferon)
+purine-box/nuclear factor
+Fli-1
+thermosensitive SV40 T antigen
+Spi-C
+Ets protein
+mitogen-activated kinase
+p38alpha mitogen-activated protein kinase
+human Ig heavy chain S gamma 3 region
+CD40 ligand
+promoter-bound multi-protein complex
+GrpL
+Grb2
+adaptor protein
+interferon (IFN)-inducible protein 10
+cellular tumor necrosis factor receptor-associated factor
+caspase
+leukemia-associated fusion protein
+AML1/MDS1/EVI1
+TGF-beta1
+glycogen synthase kinase-3
+SHP2-interacting transmembrane adaptor protein
+SIT
+disulfide-linked dimer
+extracellular-regulated kinase 1/2
+Jun N-terminal kinase
+type I interferon
+NF-kappa B-like factor
+glycosphingolipid beta-(1,3)-glucan receptor
+p21(WAF1/CIP1)
+p27(KIP1)
+hormone receptor
+Angiotensin II
+proinflammatory transcription factor
+lymphocytic aldosterone receptor
+progesterone-induced lymphocyte factor
+4E-BP1
+4E-BP2
+DQA1*0501/DQB1*0302 trans class II heterodimer
+intracellular phosphorylated STAT-1
+cytosolic phospholipase A2
+oncogenic Ets transcription factor
+IkappaBalpha
+Ca2+-ATPase
+interleukin-1 signaling mediator
+interferon-gamma receptor
+E2A-HLF chimeric protein
+RXR
+17 beta-hydroxysteroid dehydrogenase
+CD40 cytoplasmic domain
+Cbl-b
+kinase
+zap-70
+Grf40
+Grb2 family member
+LAT
+Ras
+E2F complex
+adenylate cyclase
+gp41 envelope protein
+RFLAT-1
+zinc finger transcription factor
+CD80
+CD86
+class II transactivator
+CREB binding protein
+cyclic AMP response element-binding protein
+CD44
+VCAM-1
+Egr-2
+Fas ligand
+CCAAT-box binding factor NF-Y
+A subunit
+interdomain B
+DNA-binding activity
+CD19
+lymphoid-specific transcription factor Oct2
+CREB/ATF-1/CREM family member
+interleukin 2
+nuclear factor kappaB
+early B-cell factor
+AP-1 complex
+interleukin-12
+interleukin-1beta
+Ile50Val variant
+human IL-4 receptor alpha-chain
+alpha and beta isoform
+essential transcription factor
+CTCF
+immunophilin FKBP51
+glucocorticoid receptor isoform
+70 kDa heat shock protein
+c-fos-positive lymphocyte
+WT1
+La(SSB)
+GA-binding protein factor
+coactivator CREB binding protein/p300
+26S proteasome
+chicken cytokine
+IL2
+IL15
+MCP-1
+IL-2Ralpha
+Nmi
+testosterone receptor
+nuclear receptor
+signal transducer and activator of transcription (STAT) 1
+notch-1
+oxidative-stress sensitive transcription factor
+osteoclast marker
+Mycoplasma fermentans membrane lipoprotein
+C3a
+C3a(desArg)
+oncogenic protein
+VP16
+Oct-1 POU domain
+interleukin-2 receptor
+cell cycle regulator
+Epstein-Barr virus oncogene product
+dominant negative helix loop helix factor
+LPS antibody
+activator protein-1 family protein
+c-fos
+c-jun
+NFAT4
+IL-1 receptor-associated protein kinase
+RANTES
+A-myb transcription factor
+bcl-6 protein
+Sp3
+winged-helix transcription factor
+Trident
+chicken GATA-1
+CACCC-binding protein
+murine cDNA encoding transcription factor
+TNFalpha
+EBNA3C
+binding site
+NF kappa B/rel
+nuclear regulatory factor-kappa beta
+NF-kappa B p50 homodimer
+(AND c-Rel subunit p65 subunit)
+human factor
+LSF
+RXR-alpha
+HIV-1 Vpr
+serine kinase target
+NF-kappa B/Rel family member
+RNA polymerase II
+myeloid-specific zinc finger protein
+MZF-2
+PU.1/Pip
+basic helix loop helix zipper transcription factor
+CD20
+Bcl-xL
+I kappa B beta inhibitor
+CD40-specific single-chain Fv
+variable region
+mAb G28-5
+C/EBP
+activator protein-1
+immediate-early trans-activator protein
+BZLF1
+DNA binding domain
+A-MYB
+B cell 110-kDa nuclear protein
+TCR repertoire
+Epstein-Barr virus-encoded transactivator protein
+endothelial cell surface adhesion molecule
+nuclear transcription factor NF-kappa B
+I kappa B-alpha/MAD-3
+Spi-1/PU.1
+activated erythropoietin receptor
+Rel/NF-kappa B protein
+STAT5 isoform
+yranscription factor
+N-terminal domain
+NGFI-A/Egr-1
+tumor necrosis factor receptor superfamily
+Rel/NF-kappa B
+IgE isotype
+ATF1
+CREB
+unidentified superantigen
+human SR 31747A-binding protein
+interferon beta
+HLA-DO
+endothelial ICAM-1
+proteasome
+human IL-5 receptor
+monocytic nuclear factor-kappa B
+neutrophil gelatinase-associated lipocalin
+pituitary transcription factor
+Pit-1b
+BHRF1
+L-selectin
+CD11/CD18
+HSF2-beta
+c-Myb
+cytoplasmic domains
+human interleukin-9 receptor alpha chain
+Bcl-2 protein
+anti-HLA class I monoclonal antibody
+Anti-Ehrlichia chaffeensis antibody
+class II trans-activator CIITA
+TBP-associated factor TAFII32
+N-terminal region
+human mineralocorticoid receptor hormone-binding domain
+new monoclonal antibody
+SLAP-130
+SLP-76-associated substrate
+T cell antigen receptor-stimulated protein tyrosine kinase
+NF-kappa Bo
+ZEB
+transactivation domain
+Stat6
+ETS1
+NFkappaB
+AP1
+IkappaB alpha
+activation antigen
+B7-independent T cell costimulatory molecule
+HLA-DR antigen
+inosine-5'-monophosphate dehydrogenase type II
+cytokine-induced E-selectin
+acute promyelocytic leukemia PML-retinoic acid receptor alpha
+RAR alpha
+PLZF-RAR alpha fusion protein
+Drosophila Toll protein
+tumour necrosis factor-alpha
+interleukin-12 fusion protein
+Flexi-12
+chimeric oncoprotein
+E2a-Pbx1
+CCAAT/enhancer binding protein epsilon
+TPA
+bryostatin 1
+PO-B
+dominant negative effector
+Tap
+cellular protein
+fibronectin
+surfactant protein A
+GABP factor
+Interleukin-10
+type II bare lymphocyte syndrome-associated transactivators
+RFX5
+ZEBRA
+cholecystokininB receptor
+cytoplasmic domain
+chemokine receptor
+human C-C chemokine receptor
+CCR-4
+type II bare lymphocyte syndrome-associated factor
+TATA box binding protein
+CD2
+anti-Tat single-chain intrabodies
+coactivator BOB.1/OBF.1
+Gs(alpha)
+adenylyl cyclase
+human interleukin 4 receptor alpha chain
+interleukin 2 receptor gamma chain
+ETS protein
+HTLV-I Tax mutants
+CD21
+E47
+receptor
+IL-4 receptor alpha-chain cytoplasmic domain
+JAK-1
+H2 receptor
+early lytic cycle protein
+transcription factor GATA-3
+beta-globin chain
+human gamma-globin chain
+NF-kappa B1
+arteritis-SCID chimera
+catalytically inactive form
+Ca2+/calmodulin-dependent protein kinase IV
+collagenase-1
+NOTCH1
+RBP-Jkappa
+nuclear localization sequence
+Sp family member
+runt box polypeptide
+signal transducer and activator of transcription-3
+human immunodeficiency virus-1 Tat protein
+cytokine signal network
+human neutrophil elastase
+platelet integrin
+alphaIIbbeta3
+alphaIIb subunit heavy chain
+CD3/CD28
+human T-cell lymphotropic virus type 1 Tax1 protein
+CCAAT binding protein
+NF-Y
+human T-cell leukemia virus I transactivating protein
+transcriptional regulatory protein
+SAF-like transcription factor
+relA(p65)
+ALY
+context-dependent coactivator
+LEF-1
+AML-1
+AML1a
+AML1b
+B-cell-specific activator protein
+polyomavirus T-antigen
+Jak3
+interleukin-4
+Itk
+T cell-specific tyrosine kinase
+LAZ3/BCL6
+signaling molecule
+immunorecessive epitope
+RFX1
+MIBP1
+nucleolin
+B cell-specific transcription factor
+switch region binding protein
+LR1
+glucocorticoid-receptor
+basic domain
+p50 homodimer
+adenovirus E1B 19K protein
+terminal complement complex
+herpes simplex virus T-cell antigen
+HLA DQA1*0501/DQB1*0201
+HLA DQA1*0201/DQB1*0201
+interleukin-12 receptor component
+T cell activation factor
+V3 loop
+phosphoinositide 3-kinase
+Syk
+MEF2C
+MAP kinase p38
+E2F-4
+DP-1
+p130
+varicella-zoster virus glycoprotein E
+immediate-early protein
+IE62
+NF-AT1
+NFAT-family protein
+GATA-binding protein
+GATA-4
+multiple GATA-binding protein
+calcineurin-regulated inhibitory domain
+neuronal (type I) nitric oxide synthase
+CCAAT binding factor NF-Y
+Rap1
+NFIL3/E4BP4 transcription factor
+platelet activating factor
+FMLP
+novel human myeloid-cell-specific C/EBP-epsilon transcription factor
+tumour associated cell surface antigen
+A6H
+gamma(c) subunit
+human interleukin-7 receptor complex
+Elf-2
+rhombotin-2 binding ets transcription factor
+ORF 50 transactivator
+EBV R protein
+RE/AP
+Syk kinases-interacting protein
+3BP2
+metalloproteinases-1
+interleukin 2 receptor beta chain
+(IL-2Rbeta)/IL-4Ralpha cytokine receptor chimera
+human carboxylesterase
+tumor necrosis factor receptor (TNFR)-associated factor
+receptor activator
+TNFR superfamily
+vacuolar H+-ATPase B2 subunit
+NF-kappa B p50
+membrane-associated lymphotoxin
+Cbl mutant
+cellular factor
+JAK1
+(AND TNF-receptor cytokine-receptor)
+carboxyl-terminal cytoplasmic domain
+CD36
+TRAMP
+apoptosis-mediating receptor
+tumor necrosis factor receptor 1
+Fas
+Apo-1/CD95
+kappaB-alpha
+lipocalin NGAL
+BASH
+novel signaling molecule
+granulocyte colony-stimulating factor
+72-kDa isoform
+intercellular adhesion molecule-1
+heat-shock
+Notch complex
+ZEBRA activation domain
+Tpl-2
+STAT5 protein
+T-cell oncogenic protein HOX11
+anaphylatoxin
+C5a
+TAL1
+LIM-only protein
+GATA3
+Stat4
+type I IFNs
+FKHRL1P2
+fork head domain transcription factor family
+human class II transactivator
+latent protein
+RBP
+linker protein
+lectin-type oxidized LDL receptor
+OLR1
+natural killer gene complex
+CD3
+AD1
+AD2
+E2A
+E2A-HLF
+Mn SOD
+mutant endotoxin
+STAT complex
+K+ channel
+homing receptor BLR1
+HSF
+endogenous protease
+CD40-inducible molecule
+(AND transcription factor differentiation factor)
+(AND interleukin 2 interleukin 15)
+Stat3alpha
+lysosomal acid lipase
+MHC class II transactivator
+leucine charged domain
+(AND interleukin-4 interleukin-13)
+interferon-gamma-induced factor
+Jun kinase
+human T-cell leukemia virus type I Tax protein
+oestrogen receptor variant
+Rac-1
+phosphatidyl inositol 3 kinase/PKB
+okadaic acid-sensitive serine/threonine phosphatase
+glucose transporter
+PPARgamma
+p75 tumor necrosis factor receptor
+p75TNF-R
+lymphotoxin alpha
+p55TNF-R
+syndecan-1
+p107
+pRb
+alpha-interferon
+c-myb
+C/EBP alpha
+immature class II heterodimers
+carboxyl-terminal 15-amino acid sequence
+NFATx1
+altered DNA-binding specificity mutant
+Epstein-Barr virus Rta protein
+SP1 protein
+IL-1 receptor-associated kinase
+interleukin 6
+granulocyte colony-stimulating factor receptor
+CCAAT enhancer binding protein alpha
+plasma membrane CD14
+IkappaB kinase alpha
+IKKalpha
+IKKbeta
+cellular kinase
+IKK1
+IKK2
+tumor suppressor protein
+c-cerbA/thyroid hormone receptor
+several signaling molecule
+small GTP-binding protein Rho
+PKC isoform
+PLC-gamma1
+Stat-3
+major histocompatibility complex class I molecule
+IL-13-induced regulatory factor
+signal transduction molecule
+Jak2
+STAT5A
+STAT5B
+E-protein
+Epstein-Barr virus-transforming protein
+latent infection membrane protein 1
+transcription factor NF-kappaB
+NF-kappaB-inducing kinase
+c-Mpl
+tumor necrosis factor receptor-associated factor 6
+TRAF6
+Pax-5
+histone acetyltransferase
+herpes simplex virus type 2 tegument protein
+fibrinogen
+granulocyte-colony-stimulating factor
+HMG box
+Ets-related transcription factor
+hGATA-3 T cell transcription factor
+2.3-kb TcR delta transcript
+nuclear transcription factor
+lymphoid-specific nuclear factor
+herpes simplex virus type 1 gene product
+macrophage colony-stimulating factor protein
+mycobacterial component
+HIV-1 Nef protein
+human T-cell leukemia virus type I (HTLV-I) tax
+HTLV-II tax protein
+gamma chain
+Fc
+CD2 plus CD28 adhesion molecule
+fusion protein
+Tat protein
+novel E2F complex
+p98
+precursor protein
+PILOT
+p65 subunit
+I kappa B
+MAD3
+chimeric type II/type I interleukin-1 receptor
+transcriptionally active factor
+HTLV-I Tax transactivator
+IL3
+NF-KB2
+RelA(p65)
+I kappa B-alpha
+MAD-3
+c-rel protooncogene product
+CD8 antigen
+AP-1 family
+transcriptional activator
+zinc-binding potential transcription factor
+FOS
+GATA-2/estrogen receptor chimera
+55 kd tumor necrosis factor receptor
+nuclear factor-DNA complex
+class II MHC X1 box DNA-binding protein
+NF-AT transcription factor
+p59fyn
+Sp1 transcription factor
+transcription factor jun-B
+interleukin-1 alpha
+interleukin 2 CD28-responsive complex
+NF kappa B family
+tal-1
+AP-1 transcription factor
+CD20/B1 antigen
+hybrid protein
+pml/RAR alpha
+human T cell transcription factor
+helix-loop-helix transcription factor
+cell-specific transcription factor
+NF-E2
+T-cell-specific factor
+octamer binding protein
+aldosterone-specific membrane receptor
+B-cell-specific transcription factor
+membrane receptor
+novel B cell-derived coactivator
+octamer-binding transcription factor
+SCL
+hemopoietic helix-loop-helix transcription factor
+POU domain transcription factor
+plasma interleukin-1
+Epstein-Barr virus BZLF1 transactivator
+NF-kappa B protein
+human cytokine IL-4
+plasma membrane receptor
+activation-inducer molecule/CD69
+mitogen-inducible gene product
+p50/p105-NF-kappa B
+thyroglobulin receptor
+v-Fos
+phosphorylation-dependent signal
+transdominant Rev protein
+interferon gamma
+NK-chi B
+bcl-2
+IgG Fc receptor
+I kappa B/MAD-3
+NF-kappa B p65
+candidate oncoprotein Bcl-3
+lymphoid cell-specific nuclear factor
+c-Rel-like protein
+constitutive nuclear NF kappa B
+endothelial-leukocyte adhesion molecule 1
+intercellular adhesion molecule 1
+NF-kappa B subunit
+zinc finger domain
+v-erb A oncoprotein
+Ets-related protein
+novel T lymphocyte protein
+transcription factor AP-2
+NFAT-1
+B cell-specific nuclear factor
+OTF-2
+Tax protein
+NF-GM2
+65-kD subunit
+M-CSF
+transcription factor NF kappa B
+zinc-finger domain
+anti-CD2 receptor antibody
+rel/NF-kappa B family
+transdominant negative mutant
+cell-type specific transcription factor
+1,25-dihydroxyvitamin D3-responsive protein
+HTLV-1 Tax
+cofactor
+mammalian homeodomain protein
+transforming growth factor-beta
+HIV-1 protease
+29-kDa protein
+estrogen receptor-related 27-kDa heat shock protein
+YY-1
+delta
+small basic protein
+USF-related transcription factor
+HIV-TF1
+thymus-specific member
+HMG protein family
+Oct2 isoform
+65-kDa
+50-kDa NF-kappa B dimer
+trans-activator
+Epstein-Barr virus BZLF1 transactivator protein
+leucocytic estrogen receptor
+NF-kB
+T cell-specific transcription factor
+HMG box family
+insulin
+human erythroid 5-aminolevulinate synthase
+macrophage colony-stimulating factor
+kappa B binding protein
+NF-KB-related factor
+T lymphocyte-specific transcription factor
+sequence-specific HMG box
+transcriptional suppressor protein
+kappa B-specific DNA binding protein
+in vitro synthesized human glucocorticoid receptor
+1,25(OH)2D3 receptor
+HBx-antigen
+AP-1 protein
+T-cell transcription factor
+protein phosphatase
+murine TCF-1
+interleukin-2 receptor alpha chain
+T-helper-cell determinant
+protein antigen
+cysteine-rich antigen segment
+(AND cathepsin B cathepsin L cathepsin D)
+TH protein
+protein kinase A
+Ca(2+)-regulated kinase
+NF-KB
+type-II estrogen binding site
+glucocorticoid binding site
+HLA antigens
+Cushing's syndrome
+leucine zipper class
+natural killer cell activity
+kappa B DNA-binding protein
+cyclic AMP-dependent protein kinase
+interleukin-1
+3,5,3'-triiodothyronine receptor
+T3R
+1 alpha,25-dihydroxyvitamin D3 receptor
+anti-CD3
+1,25-dihydroxyvitamin D3 receptor
+active transcription factor CREB
+cAMP response element binding protein
+human immunodeficiency virus vpr product
+virion-associated regulatory protein
+B-cell lineage-specific transcription factor
+differentiation
+octamer transcription factor
+ubiquitously active transcription factor
+triiodothyronine receptor
+TCF-1 alpha
+T-cell-specific transcription factor
+novel factor
+lymphoid cell-specific factor
+OTF2
+T-cell antigen receptor
+early antigen
+EA-D
+EBV transactivator
+BRLF1
+human T-cell FK506-binding protein
+peptidylprolyl cis-trans isomerase
+cyclophilin
+progesterone receptor-specific monoclonal antibody
+HTLV-I Tax protein
+transcriptionally active human TATA binding factor
+T-cell trans-activator
+cellular factors
+octamer-DNA binding protein
+ubiquitous Oct-1 and B cell type Oct-2 protein
+erythroid cell transcription factor
+EF1
+ubiquitous octamer-binding protein
+epstein-Barr virus nuclear antigen 2
+B-cell epitope
+human hepatitis B virus X protein
+antigen molecule
+anti-tax1 monoclonal antibody
+Lt-4
+human immunodeficiency virus type 1 enhancer-binding protein
+NF-X2
+activator protein 1
+T-cell protein
+56-59-kilodalton protein
+untransformed steroid receptor complex
+unique protein
+proto-oncoprotein
+ets-1
+type II estrogen binding site
+Ras-related GTP-binding protein
+two heat shock factor
+HSF1
+HSF3
+NFATp polyclonal antibody
+Stat protein
+staphylococcal enterotoxin
+Janus protein- tyrosine kinase 3
+signal transducers and activators of transcription
+Jak 1
+Jak 3
+STAT 5 protein
+N- and C-terminal sequence
+MAD3/I kappa B alpha
+microtubule
+COOH-terminal region
+IL-2 receptor beta-chain
+transcriptional activator precursor
+HIV-1 tat protein
+PEBP2 alpha/AML-1-related factor
+initiation binding repressor
+glycosylated member
+cell growth regulator
+interferon regulatory factor-1
+NF kappa B
+human T-cell lymphotropic virus type 1 Tax
+human C-type lectin leukocyte receptor
+AIM/CD69
+lymphocyte transcriptional activator
+Sox-4
+nuclear factor-IL6
+I kappa B alpha-associated protein kinase
+phosphorylation site
+Bik
+death-inducing protein
+Bcl-2 family protein
+cellular survival-promoting protein
+nuclear DNA-binding protein
+Fc gamma receptor
+C/EBP protein
+NF-M
+chicken C/EBP beta
+prolactin
+PTH1 receptor
+MGF-STAT5-like transcription factor
+hematopoietic transcription factor
+murine homolog
+B cell-specific coactivator
+BOB.1/OBF.1
+anti-immunoglobulin M
+nuclear calcium/calmodulin-dependent protein kinase II
+Oct-2a
+Anti-Ro(SSA) autoantibody
+complement receptor
+CR1
+CD35
+CR3
+p50/p65
+Janus kinase
+matrix attachment region binding protein
+NF-muNR enhancer repressor
+HMG-I
+Jak tyrosine kinase
+human T cell leukemia virus type 1 (HTLV-1) tax protein
+nuclear hormone receptor
+1,25(OH)2D3 receptors
+BLR2/EBI1
+EGR-1
+LEF-1 HMG protein
+HIV-1 envelope glycoprotein
+protein-1
+peri-kappa B site
+Myc-associated zinc finger protein binding site
+functional region
+CD4 promoter
+TAL1/SCL gene
+human erythropoietin receptor gene
+GATA-1 and Sp1 motif
+nm23 gene family
+interferon-gamma activation sequence
+IgG Fc receptor type IC gene
+human MIP-1 alpha gene
+class IL transactivator
+CIITA
+GATA motif
+Duffy gene promoter
+conserved motif
+promoter
+DNA binding site
+estrogen receptor gene
+vacuolar H(+)-ATPase B2 subunit gene
+c-fos
+human granulocyte-macrophage colony-stimulating factor gene promoter
+IL-2 promoter
+defective gene
+in vivo footprinted DNA motif
+alpha-globin enhancer
+c-myc allele
+regulatory element
+5'-untranslated region
+human A gamma-globin gene
+divergent X2-box
+interferon-gamma activation site-like sequence
+I epsilon exon
+TAL1 gene
+erythroid-specific gene
+positive regulatory element
+human zeta-globin gene
+LTR
+human DR alpha gene
+murine leukemia virus enhancer core
+human TR2 orphan receptor response element
+transcriptional initiation site
+simian virus 40 major late promoter
+latent membrane protein 1 promoter
+T-cell functional region
+human IL-3 proximal promoter
+Runt domain-encoding PEBP2 alpha gene
+AP1 binding site
+kappa immunoglobulin intron enhancer
+DNase-I hypersensitive site
+interleukin-2 gene
+Tat-activated, transduced interferon gene
+KOX zinc finger gene
+7q21-q22
+p21ras
+c-rel gene
+murine GM-CSF promoter
+class II major histocompatibility complex gene
+DPA
+composite octamer motif
+interleukin 2 enhancer
+exon 7
+common gamma chain gene
+CD48 gene
+NF-kappa B site
+TCL1 gene
+germline TaqI restriction fragment length polymorphism
+progesterone receptor gene
+proto-oncogene
+c-jun
+tumor necrosis factor alpha gene
+promoter region
+enhancer-like element
+cDNA clone
+CAG repeat length variation
+cDNA library
+tiny ring X chromosome
+alpha 4 integrin gene promoter
+human chromosome 5
+band q34
+proximal mouse chromosome 11
+GM-CSF promoter
+(AND interleukin-4 gene interleukin-5 gene)
+NF-kappa B/Rel binding sites
+major histocompatibility complex class II invariant chain promoter
+P sequence
+human interleukin-4 gene
+immunoglobulin heavy-chain enhancer
+interleukin 6 gene
+kappa B-like site
+proto-oncogene c-fos
+early growth response gene-1
+EGR-1
+M-CSF gene
+human homeobox gene
+proboscipedia
+murine p105 NF-kappa B gene
+human GATA3 gene
+human gene
+adenovirus E1a sequence
+v-abl
+bcl-2
+transcriptional regulatory element
+nuclease-hypersensitive site
+pol gene
+v-src
+HIV promoter
+CD11b gene
+tumor necrosis factor receptor-associated factor 3 binding site
+human genome
+kappa immunoglobulin germline promoter
+prolactin-responsive element
+interferon regulatory factor-1 gene
+BZLF1 promoter
+sex-determining gene
+SRY
+overlapping binding site
+primate cytomegalovirus major immediate-early promoter
+tuberous sclerosis gene
+TSC2
+interferon-gamma promoter
+murine fra-1
+granulocyte-macrophage colony-stimulating factor promoter
+Epstein-Barr virus LMP1 domain
+HER-2/neu oncogene
+human interleukin-2 receptor alpha gene
+human interferon regulatory factor 2 gene
+FOSB gene
+G0S3
+E1A domain
+human Bruton's agammaglobulinemia tyrosine kinase gene
+CRE
+AP-2 element
+murine cyclin-dependent kinase inhibitor gene
+p27Kip1
+granulocyte-macrophage colony-stimulating factor gene
+conserved lymphokine element 0
+Bcd
+novel SP-1 site
+human interleukin-1 beta promoter
+oriP
+cytokine gene
+chromosome 20q
+early growth response gene 1
+egr-1
+human myeloid cell nuclear differentiation antigen gene promoter
+IL-2 response element
+human IL-2 receptor alpha chain promoter
+composite element
+genomic sterol regulatory sequence
+small nuclear RNA gene
+(AND p16 gene p15 gene CDK4 gene)
+mouse perforin gene
+human tumor necrosis factor alpha gene
+IL-2 gene
+alpha-galactosidase A gene
+alignment of site
+mu enhancer
+hepatitis B virus genome
+interleukin 2 gene
+class II transactivator-encoding AIR-1 locus
+translocation (3;14)(q27;q11)
+adjacent promoter element
+IL-6 response element
+HLA-DR promoter
+Pax-5
+Pax-2
+Pax-8
+human CD36 gene promoter
+PEBP2/CBF site
+HLA-DQB1 codon 57
+human interleukin 9 gene
+human LIM-Hox gene
+hLH-2
+9q33-34.1
+murine PU.1 (spi-1) promoter
+RNA polymerase III-dependent gene
+interleukin-1alpha promoter
+myeloid-cell-specific c-fes promoter
+A-myb
+c-myb
+B-myb
+gammac chain gene promoter
+Ets binding site
+human T-cell leukemia virus type 1 promoter
+Tax-responsive element 1
+(AND interleukin-13 gene interleukin-4 gene)
+cytokine gene cluster
+human chromosome 5q23-31
+transcriptional activator
+env gene
+interferon-regulated gene
+element
+human delta-globin-encoding gene
+translocation breakpoint
+SOX9
+zebra promoter
+human immunodeficiency virus type 1 enhancer
+CD28 response element
+interleukin-2 enhancer
+human inducible nitric oxide synthase gene
+balanced X;17 translocation
+herpesvirus Saimiri cis-acting DNA fragment
+cell type-specific enhancer
+human B7.1 gene
+C motif-1/lymphotactin promoter
+third intron
+human IL-4 promoter
+Epstein-Barr virus latency BamHI-Q promoter
+human immunodeficiency virus long terminal repeat
+NFAT-1 element
+beta-globin promoter
+locus control region
+adipocyte fatty acid binding protein gene
+human T-cell lymphotrophic virus type-I tax gene
+TCL1 oncogene
+MTCP1/c6.1B
+BRCA1
+rpoS gene
+mammalian Pax gene
+eosinophil granule major basic protein promoter
+ecto-5'-nucleotidase promoter
+5' flanking sequence
+interleukin 2 gene enhancer
+NFAT site
+B cell-specific BLK gene promoter
+AML1/ETO(MTG8)
+human beta-globin promoter chromatin structure
+Ikaros gene family
+apoptosis-linked gene 4
+(AND STAT1 gene STAT5 gene)
+Wilms' tumor gene
+WT1
+TNF promoter region
+NFATp/AP-1 composite element
+PML gene
+GATA-1 gene
+human androgen receptor gene
+Humara
+(AND mammalian MCM5 gene mammalian MCM6 gene)
+NF-kappaB-regulated promoter
+human IFNGR1 small deletion hotspot
+human pro-interleukin-1beta gene
+upstream enhancer element
+megakaryocytic gene
+evolutionarily conserved sequence
+inducible promoter
+(AND NF-kappa B binding site STAT-6 binding site)
+MHC class II promoter
+IFN stimulus response element
+kappaB site
+MDS1/EVI1
+megakaryocytic glycoprotein IX promoter
+chronic myeloproliferative disorder
+human beta-globin gene
+major histocompatibility complex class II gene
+I alpha1 germ-line promoter
+tissue-specific gene
+target gene
+RFX-B
+STAT5 target sequence
+human Fas promoter
+B29 (immunoglobulin beta-chain) gene
+NF-AT/AP-1-binding promoter element
+human GATA-3 gene
+non-lineage-specific silencer
+human interleukin-2 gene
+proximal binding element
+P0
+IL-4 promoter
+human elk-1 promoter
+interleukin 16 promoter
+vitamin D receptor gene
+promoter sequence
+exon:intron structure
+c-myc, and pim-1 gene
+Megakaryocyte/Platelet-specific enhancer
+alpha2beta1 integrin gene
+AP1 site
+human immunodeficiency virus type 1 long terminal repeat
+transcription factor gene
+3' locus control region
+(AND BcLF1  promoter BFRF3 promoter)
+novel human myeloid-selective CCAAT/enhancer binding protein gene
+C/EBP epsilon
+P-like element
+mouse IL-4 gene
+inducer
+novel gene
+3q21
+ecotropic viral insertion site I
+leukocyte integrin gene
+CD11C
+CD11B
+TRE-like cAMP response element
+Cp
+cell gene CD21
+human IgE germline promoter
+DNA binding motif
+G0/G1 switch gene 2
+G0S2
+upstream NF-kappaB site
+human granulocyte macrophage-colony stimulating factor promoter
+GATA regulatory element
+HIV-1 long terminal repeat
+antisense RXR-alpha cDNA
+vascular cell adhesion molecule-1 gene
+ICAM-1 promoter
+binding site
+CD20 promoter
+down-regulated sequence
+human corticotropin-releasing hormone gene promoter
+human immunoglobulin gene
+myeloid-associated gene
+human class II trans-activator construct
+c-sis/platelet-derived growth factor-B promoter
+cell cycle regulated histone H4 gene
+distal nuclear matrix associated promoter element
+human eotaxin gene
+leukocyte-specific pp52 promoter
+human immunodeficiency virus type 1 transcription start site
+human interleukin-2 receptor beta-chain promoter
+S-X-Y region
+human myeloid cell nuclear differentiation antigen promoter
+c-Myb
+human GM-CSF promoter
+(AND AP-1-binding site NF-kappaB-binding site)
+interleukin-8 gene
+TSC2 gene
+murine homolog
+Drosophila extra sex combs gene
+distal interleukin 2 (IL-2) enhancer
+tumor necrosis factor-alpha promoter
+human T-cell receptor beta-chain core promoter
+cDNA
+CHEMR1
+enhancer-blocking element
+(AND alpha gene segment delta gene segment)
+human T cell receptor alpha/delta locus
+IL-2 promoter CD28 response element/AP-1 sequence
+major histocompatibility complex (MHC) class II gene
+viral promoter
+proximal CD19 promoter
+SP1/Egr-1 binding site
+PyG box
+endogenous immunoglobulin surrogate light chain gene
+interleukin-5 gene
+RP1
+adenomatous polyposis coli-binding EB1-like gene family
+mouse gene
+SRG3
+SWI3
+upstream C/EBP-beta site
+common allelic variant
+primary binding site
+promoter proximal repeat
+HTLV-I enhancer
+tissue factor gene
+HTLV-I promoter
+21 bp repeat
+PMLRARalpha transgene
+c-fos/c-jun gene
+c-fos/c-jun promoter element
+serum amyloid A gene
+cytomegalovirus immediate early gene
+upstream regulatory region
+PRE-I enhancer element
+long terminal repeat
+kappaB motif
+nucleotide sequence
+human platelet/endothelial cell adhesion molecule-1 promoter
+GATA-2 binding element
+glucocorticosteroid response element
+nGRE
+human interleukin-1beta gene
+gamma motif
+negative regulatory element
+hepatitis B virus core promoter
+T cell-specific enhancer
+interleukin-3 locus
+DNase I-hypersensitive site
+Pax-5 gene
+human IL-5 gene promoter
+ferritin heavy-chain gene
+c-myc
+human immunodeficiency virus enhancer
+acute myeloid leukemia gene
+AML1
+Spi-1/PU.1
+Ikaros gene
+arthritis-encephalitis virus long terminal repeat
+1,25-Dihydroxyvitamin D3 receptor
+core promoter
+human monoamine oxidase B gene
+AP-2 site
+Epstein-Barr virus BamHI W promoter
+human delta-globin gene promoter
+cis-element
+IFN regulatory factor 1 promoter
+interleukin-beta gene
+pro-myelocytic leukaemia gene
+transforming growth factor-beta promoter polymorphisms
+X2 box
+DRA promoter
+CD4 gene
+conserved element
+(AND NF-E2 binding site tandem GATA binding site)
+human beta-globin locus control region
+ARE-containing gene
+B-cell-specific promoter
+beta-casein gene
+Ig loci
+vitellogenin gene B1 promoter
+CD95 (APO-1/Fas) ligand promoter
+TATA-less promoter
+Inv(16)(p13;q22)
+Y;15 translocation
+W box promoter element
+inactive X chromosome
+XIC/XIST
+interleukin-4-responsive element
+CD23b promoter
+interleukin 2 receptor alpha chain/CD25 promoter
+FY*B allele
+Duffy chemokine receptor gene
+monocytic/myeloic gene
+MRP14
+upstream regulatory element
+adult beta-like globin gene
+beta-globin locus control region
+lytic cycle gene
+minimal promoter
+NF-IL6 gene
+musculin
+murine basic helix-loop-helix transcription factor gene
+coproporphyrinogen oxidase gene
+gamma-IFN responsive gene
+human 15-lipoxygenase gene promoter
+major histocompatibility complex class II transactivator construct
+CALM
+AF10
+translocation t(10;11)
+MyD88 gene
+Human immunodeficiency virus type 1 long terminal repeat quasispecies
+human interleukin 2 (IL-2) gene
+macrophage colony-stimulating factor gene
+interleukin-1 beta (IL-1 beta) gene
+nuclear factor-IL6 motif
+beta-globin locus
+serum response element
+binding site for NF-Y
+human thrombospondin 1 gene
+parathyroid hormone-related protein gene promoter
+Alu sequence
+silencer
+human prointerleukin 1 beta gene
+transcription start site
+IL-2R alpha kappa B enhancer
+c-rel proto-oncogene
+interleukin-2 receptor alpha-chain enhancer
+-201 to -130 region
+human putative lymphocyte G0/G1 switch gene
+rodent gene
+lymphoid-specific immunoglobulin mu heavy chain gene enhancer
+human zeta 2 globin promoter
+alpha globin regulatory element
+HS-40
+pyruvate kinase erythroid-specific promoter
+heterologous enhancer/promoters
+adenovirus DNA
+CD11b promoter
+lymphotoxin promoter
+Epstein-Barr viral DNA
+thyrotropin receptor gene
+Jun oncogene family member
+octamer DNA motif
+EBNA2 responsive cis-element
+terminal protein 1 gene promoter
+E2A gene
+enhancer element
+jun B
+remote enhancer position
+CD19 gene
+DNA regulatory motif
+immunoglobulin promoter
+cellular oncogene
+reticuloendotheliosis virus long terminal repeat element
+human immunodeficiency virus type 2 regulatory element
+alpha TCR gene
+kappa B/Rel DNA-binding motif
+p50 subunit gene promoter
+kappa B site
+human tumor necrosis factor alpha promoter region
+11-base-pair DNA sequence motif
+human interleukin 4 gene
+lymphokine gene
+cis-acting DNA element
+Pit-1 gene
+HLA-DRA gene promoter
+octamer site
+SRC-related proto-oncogene
+AP-1 site
+-150 bp
+interleukin 2 promoter
+simian virus 40 enhancer TC-II (NF-kappa B) element
+interleukin-6 kappa B-related motif
+androgen receptor gene
+HB24
+diverged human homeobox gene
+cis-acting sequence
+human epsilon-globin-encoding gene
+hypersensitive site HS2 enhancer
+steroid/thyroid hormone receptor response element
+negative regulatory sequence
+human class II transplantation gene
+DRA
+interferon-stimulated gene
+regulatory region
+GM-CSF gene
+immediate-early gene
+rel-related human cDNA
+clone pAT 133
+growth factor-induced gene
+erbA target gene
+CAII
+HIV long terminal repeat
+platelet GPIIb gene
+kB-like proto-enhancer element
+erythroid specific enhancer
+immediate early serum responsive gene
+kappa B-related sequence
+human T-cell leukemia virus type I tax gene
+human interferon regulatory factor 1 gene
+AP-1
+cis-regulatory element
+human T-cell receptor delta gene enhancer
+c-jun, jun B and jun D proto-oncogene
+immunoglobulin kappa 3' enhancer
+immunoglobulin heavy-chain mu E1 site
+CpG-rich island
+human immunodeficiency virus promoter
+transactivating HHV-6(GS) gene fragment
+human T cell receptor C alpha enhancer
+NF-kappa B element
+sequence motif
+iron-responsive element
+NF kappa B independent cis-acting sequence
+HIV-1 LTR
+functional motif
+diverged Drosophila homeobox gene
+B-cell-specific enhancer element
+kappa B enhancer
+Sp1 binding motif
+rhombotin family
+cysteine-rich LIM-domain oncogene
+T-cell translocation
+murine Thy-1 gene promoter
+human SCL locus
+thyroid hormone response element
+NF-kappa B regulatory element
+cis-linked regulatory sequence
+HLA DRA promoter
+exogenous gene
+HLA DR alpha promoter
+mitogen-inducible gene
+rel oncogene
+cell-cycle motif
+Epstein-Barr virus (EBV) ORI1yt enhancer
+adenovirus early region 3 promoter
+NF-kappa B binding motif
+phoP virulence regulon
+endogenous Ig heavy chain enhancer
+immediate early response gene
+kappa B element
+T-cell receptor C alpha gene enhancer
+tandem AP-1-binding site
+human beta-globin dominant control region
+inducible enhancer
+immunoglobulin heavy-chain promoter
+Epstein-Barr virus (EBV) BMRF1 promoter
+lymphoid-specific enhancer element
+HIV-2 transactivator gene
+phorbol ester-inducible element
+interleukin-2 promoter
+Tax-response element DNA
+immunoglobulin enhancer
+microE5/kappa 2 motif
+human T-cell leukemia virus type II rex gene
+immunoglobulin gene
+c-myc gene
+transcriptional enhancer
+DRA X2-box
+palindromic sequence
+transcriptional activator sequence
+myeloid zinc finger gene
+MZF-1
+CD34 promoter
+BCL6 gene
+immediate early gene
+ionomycin/cyclosporin A-responsive element
+human T cell receptor gamma enhancer
+osteoblast-specific cis-acting element
+transcription initiation site
+histone h5 gene
+L-selectin gene
+latent EBV genome
+tumor necrosis factor-alpha-responsive element
+5' end of human thromboxane receptor gene
+sequence-specific HMG box
+human TCF-1 gene
+enhancer
+nuclear inhibitory protein repressor element
+human interleukin-3 promoter
+GATA
+Ets binding motif
+platelet glycoprotein Ib alpha gene
+MHC class II gene
+T cell receptor beta gene
+granulocyte-macrophage colony-stimulating factor receptor alpha gene
+rabbit 15-lipoxygenase gene
+transcriptional silencer
+single c-Myb binding site
+thymic locus control region
+human interleukin 2 gene promoter
+HIV-1 enhancer
+nucleosome-assembled DNA
+chromosome 16 CBF beta-MYH11 fusion transcript
+transcript
+RNA transcript
+nuclear factor kappa B subunit p65 mRNA
+erythroid transcription factor P45 NF-E2 mRNA
+glucocorticoid receptor mRNA
+p40 transcript
+GH-N gene transcript
+Cepsilon germline transcript
+vitamin D receptor mRNA
+AML1/ETO transcript
+Epstein-Barr virus immediate-early transcript
+interleukin-4-induced CD23b mRNA
+c-myc mRNA
+glucocorticoid receptor messenger ribonucleic acid
+membrane form
+secreted form
+Ig mRNA
+1,25-Dihydroxyvitamin D3 receptor RNA
+human monocyte PDGF(B) mRNA
+unspliced mRNA
+vitamin D receptor messenger ribonucleic acid
+beta 1 triiodothyronine receptor mRNA
+monocyte
+T cell
+NK cell
+human cell
+human thymocyte
+monocytic cell
+T lymphocyte
+human mononuclear cell
+eosinophil
+human lymphocyte
+peripheral blood mononuclear leucocyte
+human B cell
+human B lymphocyte
+human leukemia cell
+human monocyte
+human T cell
+EBV-positive B cell
+neutrophil
+human eosinophil
+(AND primary human lymphoid cell long-term human lymphoid cell)
+peripheral blood mononuclear cell
+macrophage
+human peripheral blood mononuclear cell
+peripheral human lymphocyte
+mononuclear cell
+hematopoietic cell
+B-lymphocyte
+human leukemic cell
+T lymphoid cell
+human immunodeficiency virus type 1-infected cell
+influenza virus-exposed T cell
+human T lymphocyte
+activated T cell
+lymphoid cell
+steroid-responsive cell
+Epstein-Barr virus-immortalized B-cell line
+human peripheral T cell
+thymocyte
+red cell
+platelet-like particle
+bovine leucocyte
+sperm
+B cell
+human monocytic cell
+human T-cell
+early B lymphocyte
+adipocyte
+olfactory neuron
+lymphocyte
+helper T cell
+tumour cell
+endothelial cell
+(AND T lymphocyte B lymphocyte)
+basophil
+human neutrophil
+human peripheral T lymphocyte
+central nervous system-derived cell
+human lymphoblastoid cell
+myeloid cell
+mononuclear phagocyte
+peripheral human mononuclear leukocyte
+human endothelial cell
+senescent T lymphocyte
+peripheral blood lymphocyte
+differentiating erythroid cell
+human erythrocyte
+acute promyelocytic cell
+human peripheral blood T lymphocyte
+islet B cell
+CD1+RelB+ dendritic cell
+tartrate-resistant acid phosphatase-positive osteoclast-like multinucleated giant cell
+human T-lymphoblastoid cell
+T-lymphocyte
+murine lymphocyte
+primary B lymphocyte
+peripheral leukocyte
+peripheral blood leukocyte
+human accessory cell
+late stage cell
+monocytic lineage
+granulocytic lineage
+cultured lymphocyte
+natural killer cell
+human gingival fibroblast
+follicular dendritic cell
+(AND Nasal NK-cell lymphoma T-cell lymphoma)
+unstimulated B cell
+Naive (CD45RA+) T lymphocyte
+memory (CD45RO+) cell
+lymphocyte stem cell
+B-cell
+keratinocyte
+anergized T cell
+activated T-lymphocyte
+glial cell
+human platelet
+(THAN neonatal T lymphocyte adult T lymphocyte)
+mononuclear leukocyte
+normal human B cell
+erythroid progenitor
+rat macrophage
+human erythroleukemic cell
+(AND NK cell T cell)
+plasma cell
+normal human B lymphocyte
+primary human CD4+ T lymphocyte
+acute promyelocytic leukemia cell
+murine thymoma cell
+human natural killer cell
+human peripheral blood T cell
+normal thymic epithelial cell
+HLA-DR-constitutive B cell
+human peripheral granurocyte
+infected U1 cell
+activated T-cell
+T-helper lymphocyte
+polymorphonuclear leukocyte
+primary B cell
+PBMC
+vitamin D-resistant New World primate cell
+peripheral blood cell
+murine erythroleukemia cell
+mature human T lymphocyte
+(AND neutrophilic granulocyte eosinophilic granulocyte)
+Rel-deficient T cell
+bacterial lipopolysaccharide-stimulated macrophage
+(AND latently infected cell acutely infected cell)
+monocyte/macrophage lineage
+human blood platelet
+transgenic megakaryocyte
+activated human T lymphocyte
+cytolytic lymphocyte
+CD8+ T cell
+human immunodeficiency virus-infected monocyte
+erythroid cell
+human mammary epithelial cell
+dendritic cell
+mature CD4(+) CD8(-) CD3(+) thymocyte
+NF-kappaB-mediated up-regulation
+B lymphocyte
+non-leukaemic T cell
+human monocytic THP-1 cell
+Myb-transformed hematopoietic cell
+erythroblast
+megakaryocyte
+bipotent myeloid progenitor
+human peripheral monocyte
+NK
+airway cell
+resting B cell
+erythroblastic progeny
+normal human monocyte
+normal human neutrophil
+T-cell
+human helper T cell
+granulocyte
+infected T cell
+committed T cell progenitor
+resting peripheral blood mononuclear cell
+immune cell
+non-malignant cell
+normal T cell
+(AND erythroid  cell megakaryocytic cell)
+(AND CD4(+) T lymphocyte CD8(+) T lymphocyte)
+gamma/delta T cell receptor positive cell
+malignant lymphocyte
+human alveolar macrophage
+activated NK cell
+uncultured leukemic cell
+T-lineage cell
+monocyte-derived macrophage
+effector T cell
+monoblastoid cell
+primary murine T cell
+alveolar macrophage
+human CD34+ hematopoietic progenitor cell
+hematopoietic progenitor cell
+blood lymphocyte
+human leukemic T cell
+primary adult T-cell leukemia cell
+post-germinal center B cell
+platelet
+fibroblast
+human PMN
+apoptotic leukocyte
+leukocyte population
+germinal center B cell
+intrafollicular T-cell
+sickle red blood cell
+human primary B-lymphocyte
+CD34+ progenitor
+(AND murine T cell murine mast cell)
+human class I-restricted cytotoxic T lymphocyte clonotype
+human NK cell
+cord blood lymphocyte
+rheumatoid synovial cell
+(AND aberrant double-negative lpr T cell aberrant double-negative gld T cell)
+human B lineage cell
+HTLV-I-transformed T cell
+anergic T cell
+mouse bone marrow cell
+thymic epithelial cell
+human fibroblast
+isolated eosinophil
+ring sideroblast
+bone marrow progenitor
+naive human T cell
+human peripheral blood mononuclear precursor
+polymorphonuclear cell
+developing B cell
+cytotoxic lymphocyte
+nucleated fetal blood cell
+(AND neoplastic B cell normal B cell)
+dividing lymphocyte
+monocytes/macrophage
+cell-free extract
+(AND human T lymphocyte rat T lymphocyte)
+CD8+ cytotoxic T lymphocyte
+human hematopoietic progenitor cell
+primary erythroblast
+human peripheral blood T lymphoblast
+precursor B lymphocyte
+primary human T cell
+human myeloid leukemia cell
+(AND B cell T cell)
+memory B cells
+blood-derived monocyte
+mammary epithelial cell
+human lung fibroblast
+acute myeloid leukemic blast
+(AND CD45RA T helper subset CD45R0 T helper subset)
+human primary T lymphocyte
+apoptotic vascular smooth muscle cell
+peripheral blood T-lymphocyte
+leukocyte
+thrombin-stimulated platelet
+EKLF-/- adult erythrocyte
+self-renewing B-1 cell
+peripheral blood stem cell
+(AND activated T lymphoid cell activated monocytic cell)
+lipopolysaccharide-stimulated human monocyte
+mature monocyte
+astrocyte
+naive CD4 T cell
+human T-cell leukemia virus type I-infected cell
+activated human T cell
+monocyte/macrophage cell
+human peripheral blood monocyte
+K562 leukemia cell
+T cell subset
+cytotoxic T lymphocyte
+peripheral-blood lymphocyte
+HIV-1-infected T cell
+freshly isolated human monocyte
+persistently infected human T-lymphocyte
+human T helper 1 cell
+CD4+ T helper 2 (Th2) cell
+Th1 cell
+human primary haemopoietic cell
+AML blast
+(AND Tax-expressing human T cell type I human T-cell leukemia virus-infected human T cell)
+normal human T cell
+IL-5 producing cell
+pro-B lymphocyte
+(BUT NOT human CD4+ T cell human CD8+ T cell)
+blood cell
+human plasma cell
+(AND CD4+ T lymphocyte CD8+ T lymphocyte)
+primary lymphocyte
+primary adult erythroid cell
+pro-B cell
+human macrophage
+adult T-cell leukemia cell
+human mononuclear leukocyte
+mature T lymphocyte
+human dendritic cell
+HIT cell
+memory B cell
+(AND activated cord lymphocyte adult lymphocyte)
+normal germinal center B cell
+hepatocyte
+(AND primary human T cell primary human NK cell)
+mature B cell
+human intestinal epithelial cell
+neonatal T cell
+EBV-infected lymphoblastoid cell
+skin fibroblast
+chronically infected monocytic cell
+sickle erythrocyte
+human differentiated cell
+human tonsillar mononuclear cell
+LNCaP human prostate cancer cell
+(AND CD45RO+ T cell subset CD45RA+ T cell subset)
+3T3-L1 adipocyte
+immunizing cell
+proliferating cell
+(AND erythroid cell nonerythroid cell)
+killer cell
+activated platelet
+intercellular adhesion molecule-1
+peripheral T lymphocyte
+blood monocyte
+over-expressing monocyte
+CD8+ T cell prolymphocytic leukemia cell
+tumor-draining lymph node T cell
+primary cultured human erythroid precursor
+stimulated lymphocyte
+myeloid leukemic cell
+(AND erythroid cell megakaryocytic cell)
+(AND primary human NK cell primary human T cell)
+CD4 T cell
+peripheral blood T cell
+normal cell
+(AND possible T cell possible natural killer cell)
+(AND human glial cell human lymphocyte)
+memory resting T helper lymphocyte
+primary human T-lymphocyte
+B-lymphocyte cell
+primary human T lymphocyte
+human B lymphoblast
+(AND human T lymphocyte human B lymphocyte)
+human B-lymphocyte precursor
+HIV-1-infected cell
+autoreactive T-cells=
+human CD4 lymphocyte
+macrophage lineage
+human T cells
+lymphokine-activated killer cell
+human lymphoid cell
+lymphocyte subset
+IgM-secreting plasma cell
+human blood monocyte
+peripheral blood monocyte
+myelomonoblastic cell
+mature human monocytic cell
+pure differentiating hematopoietic progenitor
+adherent monocyte
+B lymphoid cell
+human peripheral-blood granulocyte
+normal leukocyte
+single tumor cell
+human peripheral leukocyte
+alveolar lymphocyte
+T-cell type
+primary lymphoid cell
+(AND normal cell malignant cell)
+differentiated embryonic stem cell
+malignant soft tissue tumor
+circulating human lymphocyte
+peripheral mononuclear cell
+human tonsillar T-lymphocyte
+mononuclear infiltrate
+tumor cell
+peripheral mononuclear leukocyte
+glioblastoma cell
+non-erythroid cell
+(AND human peripheral mononuclear leucocyte human peripheral polymorphonuclear leucocyte)
+human leukocyte
+pregnancy lymphocyte
+activated lymphocyte
+NK/T cell
+leukemic cell
+preleukemic T cell
+lymphoblast
+T helper cell subset
+HIV-infected monocytic cell
+quiescent B lymphocyte
+CD4+ T cell
+human NK cell line
+U937
+32Dc13 myeloid cell
+MHC class II deficient B-cell line
+class II non-inducible RB-defective tumor line
+human Th2-type lymphocyte
+apoptotic human T cell line
+stimulated human endothelial cell
+human CD4+ T cell
+differentiating THP-1 cell
+(AND B cell line T cell line)
+CD4-CD8- T lymphocyte
+Epstein-Barr virus-transformed B lymphocyte
+human prostatic cancer LNCaP cell
+class II major histocompatibility complex mutant cell line clone-13
+human B cell line
+leukemia/B lymphoma cell line
+EBNA-2-positive cell line
+(AND erythroid  cell line T-cell line)
+cytokine-dependent cell line
+M-TAT
+HL60 cell
+Jurkat T cell
+promyelocytic leukemia HL-60 cell
+B cell hybridoma 7TD1
+megakaryoblastic/erythroid cell line
+adult-T-cell-leukemia cell line
+T cell hybridoma
+human monoblast cell line U-937
+human leukemia cell line
+HL-60
+NB4
+human neuroblastoma cell line
+chronically infected T cell line
+Th0-type human T cell clone
+K562 cell
+human CD4+ T-cell clone
+human myeloid cell line
+cultured human endothelial cell
+human B lymphoma cell line
+B104
+human promyeloid leukemia cell line
+HL60
+human T lymphoid Jurkat cell
+anti-CD3-activated peripheral human T lymphocyte
+monocytic cell line
+THP-1
+lipopolysaccharide-stimulated B lymphocyte
+purified adult-progenitor culture
+human B cell line B104
+monocytic cell line U937
+retinoid-resistant promyelocytic cell line
+T-lymphocyte cell line
+anti-immunoglobulin-treated B cell
+lipopolysaccharide-stimulated human monocytic cell
+human allergen-specific Th2 cell
+JAK3-deficient severe combined immunodeficiency lymphocyte
+human CD40-activated B lymphocyte
+adenovirus 12 transformed cell
+EBV genome positive lymphoid cell line
+Epstein-Barr virus-immortalized lymphoblastoid cell line
+lymphoid cell line
+promonocytic U937 cell
+anergic T helper 1 cell
+human B cell precursor acute lymphoblastic leukemia cell
+murine BAF3 cell
+mononuclear cell culture
+U937 human monoblastic cell
+CD40-activated human B lymphocyte
+U-937 cell
+human colon carcinoma cell line
+human monocytic cell line
+androgen insensitive human prostatic carcinoma cell line
+PC-3
+DU-145
+Hodgkin's Reed-Sternberg cell
+human monoblastic leukemia U937 cell
+chronically infected monocytic cell
+Herpesvirus saimiri immortalized gamma delta T cell line
+phytohemagglutinin-stimulated lymphocyte
+transiently transfected cell
+CD3-stimulated human peripheral T lymphocyte
+human B cell lymphoma line
+human CD34+ erythroid progenitor cell
+acute promyelocytic leukemia cell
+Jurkat cell
+cloned human T lymphocyte
+Jurkat cell clone
+anergized CD4+ T cell
+monoblastoid U937 cell
+ECV304 cell
+fibre-exposed monocyte
+co-cultured bronchial epithelial cell
+BEAS-2B
+human T-cell line
+apoptosis-resistant T-cell transfectant
+NB4 leukemia cell
+D variant cell
+M2-type leukemic blast cell
+promyelocyte cell line OM10.1
+THP-1 monocytic cell line
+32Dcl3 cell
+CTL clone
+transduced hematopoietic stem cell
+transformed cell
+leukemic cell line K562
+HCD57 erythroid cell
+EPO-independent, apoptosis-resistant subclone
+HCD57-SREI cell
+functional molecular clone
+FGF receptor-bearing Jurkat T cell
+unicellular-unilineage erythropoietic culture
+(AND HTLV-I(+) cell line IL-2-independent cell line IL-2-dependent cell line)
+UT-7 cell
+apoptosis-resistant T cell
+Epo-dependent cell line
+lipopolysaccharide-stimulated neutrophil
+Burkitt's lymphoma cell line
+retinoic acid-resistant acute promyelocytic leukemia cell line
+UF-1
+monocyte-like HL-60 cell
+cultured human dermal endothelial cell
+NKL human NK cell line
+cultured endothelial cell
+growth-factor-dependent myeloid cell line
+mouse T-cell line
+peptide-loaded dendritic cell
+HeLa cell
+(AND OM10.1 cell Ach2 cell)
+1A9-M cell
+genetically modified T lymphocyte
+cultured human blood mononuclear cell
+5637 cell
+U937 cell
+promonocytic cell
+monocytic THP-1 cell
+HL-60 promyelocytic leukemia cell
+leukemic HL60 cell
+allergen-specific human helper T cell
+human leukemia U937 cell
+B-cell chronic lymphocytic leukemia cell
+8e51 cell
+human antigen-specific T cell clone
+human Jurkat lymphoblastic T cell
+HL60 cell variant
+human promonocytic cell line U937
+(AND murine Th1 cell murine Th2 cell)
+thymoma cell line
+differentiated monocyte-like (U937) cell
+ER-negative breast cancer cell line
+human Burkitt lymphoma B cell line
+U-937 promonocytic cell
+allergen-specific human T-cell clone
+human T cell line Jurkat
+human Raji B cell line
+lipopolysaccharide-stimulated U937 cell
+Lck-negative JCaM1 cell
+mutant cell line
+human B-cell line
+heme-treated Friend leukemia cell
+T-lymphocytic cell line
+cell hybrid
+HL-60 leukemia cell
+prestimulated THP-1 monocytic cells
+non-irradiated transfected cell line
+U-937 human promonocytic cell
+T-cell line
+human CD34+ hematopoietic stem cell
+NIH 3T3 cell
+macrophage cell line
+eosinophil-committed HL-60-C15 cell
+Th1
+Th2
+non-antigen-selected human B cell
+myeloid-committed eosinophil cell line
+YJ
+p16(INK4A)-negative T-cell line
+(AND EBV-positive primary effusion lymphoma cell line EBV-negative primary effusion lymphoma cell line)
+U937 promonocytic cell
+MHC class II-silenced cell hybrid
+murine T cell line EL4
+human Jurkat T cell
+HL-60 cell
+B cell line
+human CD3-CD16+ natural killer cell
+human promonocytic U937 cell
+multidrug-resistant HL-60 cell
+HL-60 granulocyte
+human monocytic THP-1 cell
+(AND human T-cell line human B-cell line)
+CEM human leukemic cell clone
+(AND wild-type  B cell class II-deficient B cell)
+human hematopoietic cell line
+UT-7
+recombinant B-cell
+lymphoblastoid cell line
+human HL60 leukemia cell
+human breast cancer cell line
+(AND human T cell line monocytic cell line)
+T cell line
+interferon-gamma-treated U937 cell
+ethyl-methanesulfonate-treated CEM subclone
+interferon-alpha in U937 cell
+T-cell leukemia line Jurkat cell
+wild-type CEM cell
+dexamethasone-resistant human leukemic (CEM) cell
+human myelomonocytic cell line U-937
+B-cell population
+human myelomonocytic cell line
+thrombin-activated human platelet
+(AND stimulated T cell line stimulated B cell line)
+IL-2 autocrine human T cell line
+human U-937 leukemia cell
+somatic cell hybrid
+Jurkat T cell line
+(AND megakaryocytic lineage erythrocytic lineage)
+human T lymphoblastic tumor cell line
+human chronic myelogenous leukemia cell line
+RWLeu-4
+lymphocyte cell line
+human myeloid leukemic cell
+human T-cell clone
+lymphocyte
+human CD4 T lymphocyte
+CD4+ T-cell clonal lines
+Jurkat
+avian erythroblast cell line
+HD6
+activated HT-2 cell
+mitogen-activated T lymphocyte
+B-lymphoblastoid cell line
+EBV-positive B lymphoid cell
+(AND normal T-lineage lymphocyte neoplastic T-lineage lymphocyte)
+human naive neonatal T lymphocyte
+hematopoietic progenitor cell line
+human multiple myeloma cell line
+human T cell line
+virus-transformed cell
+human K562 cell
+(OR human papillomavirus-transformed cell human adenovirus-transformed cell)
+cyclosporin A-treated human B cell

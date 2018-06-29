@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+   <body>
+   
+      <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">Extracted Biomedical Relations</th>
+            </tr>
+          </thead>
+         {% for value in result %}
+
+            <tr>
+               <td> {{ value }} </td>
+            </tr>
+
+         {% endfor %}
+      </table>
+      
+   </body>
+</html>

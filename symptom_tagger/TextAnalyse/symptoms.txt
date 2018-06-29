@@ -1,0 +1,944 @@
+sudden onset of severe chills
+dry hacking cough
+pulmonary consolidation
+enanthem
+anxiety
+generalized abdominal tenderness
+delirium
+breakthrough pain
+malaise
+herpetic lesion on upper lip
+vesicles on teats
+tarry droppings
+fixed dilated pupils
+dry cough
+blindness
+memory impairment
+neck pain
+cachexia
+male stress incontinence
+acute mesenteric lymphadenitis
+coma
+pustule
+cheyne-stokes respiration
+abnormal bowel sound
+prostatic abscess
+myoclonic seizure
+staggering gait
+diminished gastro-intestinal motility
+gum bleeding
+anuria
+periumbilic abdominal tenderness
+liver symptom
+ulcerative dermal vesicles
+confusion
+adult failure to thrive
+deltoid muscle weakness
+abnormality of gait
+slowing of urinary stream
+septicemia
+eye symptom
+constipation
+phlebitis
+salivation
+skin ulcer
+vasculitis
+epididymitis
+increased appetite
+backache
+hemorrhage into mucous membrane
+sternocleidomastoid weakness
+functional hyperemia
+postural instability hypokinesia
+tachypnea
+hoarseness
+vesicular lesions on lip border
+facial paralysis
+tinnitus
+wheelbarrowing
+pelvic symptom
+prolonged fever
+respiratory tract mucosa ulcer
+spastic paralysis
+hemorrhagic meningitis
+epidermal proliferation
+palpitation
+ankle rash
+stridor
+acute renal failure
+bloating
+weight gain
+ear symptom
+pneumonia
+communication difficulty
+crinkle
+fluid in pericardial sac
+infant symptom
+headache
+enlargement of lymph nodes
+hemolytic anemia
+clonic seizure
+stiff neck
+petechiae
+icteric eyes
+belching
+fever
+incoordination
+yellow liver
+eschar
+hemorrhage into skin
+freezing hypokinesia
+vesicles on mouth
+systemic vasculitis
+bleeding
+wheezing
+toxemia
+vein swelling
+aphasia
+epididymorchitis
+eye discharge
+scrotal abscess
+thyroid abscesses
+prostate symptom
+lip paralysis
+paralysis
+gross hematuria
+hypoesthesia
+ocular lesion
+spleen symptom
+tonic-clonic seizure
+severe mastitis
+lesions in mouth
+yellowish green diarrhea
+motor paralysis
+intense toxemia
+extracellular fluid alteration
+icteric mucous membrane
+cough
+weight loss
+abnormal hemiwalking hemistanding
+gastroenteritis
+epigastric pelvic swelling
+right lower quadrant pelvic lump
+severe temperature increase
+high fever
+ankle swelling
+vision distortion
+cataplexy
+reticulocytosis
+generalized abdominal pain
+change in skin texture
+tonic seizure
+gas pain
+neck symptom
+left lower quadrant pelvic mass
+enteritis
+flatulence
+amaurosis
+ascites
+nose symptom
+hypothermia
+sensory disturbance
+lameness
+sensation perception
+facial edema
+hypokinesia
+hepatic abscess
+extensive ulcer
+abnormal posture
+exhaustion
+vesicles on feet
+pelvic lump
+bronchopulmonary bleeding
+menorrhagia
+stillbirth
+very high fever
+cervical edema
+watery ocular discharge
+thymus atrophy
+floppy head
+epileptic seizure
+dyspepsia
+urge incontinence
+respiratory distress
+inflammation of meninges
+hepatic necrosis
+generalized hyperhidrosis
+syncope
+obsessive interests
+severe myalgia
+mydriasis
+ptosis
+acute pain
+subjective vertigo
+hyperemic liver
+fragile bones
+feeding difficulties and mismanagement
+hip pain
+fatigue
+extreme prostration
+retrobulbar pain
+vascular necrosis
+excess salivation
+catatonia
+pleuritic chest pain
+painful respiration
+anorexia
+lesions in myocardium
+right upper quadrant abdominal tenderness
+heart failure
+bubo
+lesions in spleen
+slow pulse
+hypotensive
+pericardial effusion
+maculopapular rash
+tetany
+tiredness
+epigastric pelvic mass
+pupil symptom
+transient paralysis of limb
+undiagnosed cardiac murmur
+opisthotonus
+irritability
+hyperplastic alveolar nodules
+photophobia
+hypoxemia
+vision symptom
+urticaria
+hepatic dysfunction
+extreme exhaustion
+stupor
+lesions in pancreas
+acute meningoencephalitis
+arrhythmia
+unreactive mydriasis
+weakness
+intestinal hemorrhage
+loss of coordination
+mild conjunctivitis
+generalized pelvic lump
+gastrointestinal bleeding
+hair loss
+clubbing of fingers
+purpuric rash
+hemoptysis
+disturbed vision
+inflamed eyes
+acute arthritis
+lesions in respiratory tract
+hypergammaglobulinemia
+sputum
+periumbilic abdominal swelling
+head symptom
+hypopyon
+objective vertigo
+hematoma
+thick white exudate on tongue
+hyperemic spleen
+hemorrhagic thoracic lymphadenitis
+inflammation
+hematochezia
+splenomegaly
+renal involvement
+multiple sites abdominal swelling
+contracted pupil
+paresthesia
+hemistanding
+multiple sites pelvic mass
+cardiac fibrillation
+low grade fever
+intestinal hypermotility
+right lower quadrant pelvic mass
+early satiety
+inability to swallow
+mild bronchitis
+distended loops of intestines on rectal
+right lower quadrant abdominal lump
+photosensitivity
+inability to comprehend speech
+epigastric abdominal mass
+discharge
+hematopoietic system symptom
+right upper quadrant pelvic lump
+remittent fever
+laryngitis
+lymphocytic hyperplasia
+faint
+symptom
+left upper quadrant abdominal swelling
+splitting of urinary stream
+yellow exudate from eyes
+altered mental status
+salivary gland symptom
+lateroventral deviation of the head
+listlessness
+right upper quadrant abdominal rigidity
+abnormal vaginal bleeding
+urinary frequency
+right lower quadrant abdominal pain
+inability to feed
+cardiovascular system symptom
+mouth bleeding
+papular rash
+hyperreflexia
+left lower quadrant pelvic swelling
+disturbance of skin sensation
+hyperthermia
+uncoordinated gait
+abnormal feces
+exanthema
+synovitis
+keratotic nodules of the skin
+hind limb paralysis
+acute painful vision loss
+joint symptom
+macrocytosis
+vaginal discharge
+proliferative mouth papules
+reproductive system symptom
+lymphopenia
+right upper quadrant pelvic swelling
+lack of normal physiological development
+nervous system symptom
+urinary stream symptom
+urgency of urination
+tachypnoea
+leg cramp
+multiple sites abdominal mass
+acute suppurative parotiditis
+leg weakness
+afebrile
+thrombocytopenia
+lymphatic system symptom
+hind limb paralysis
+hypotension
+bradykinesia
+pale mucous membrane
+muscle weakness
+localized cutaneous lesions
+abdominal rigidity
+multiple sites abdominal rigidity
+sleep apnea
+nocturia
+inibility to stand
+short stature
+nausea
+lameness
+nail discoloration
+impotence
+left lower quadrant abdominal rigidity
+cyanosis
+yellow exudate from nose
+tache noire
+areflexia
+mouth sore
+abdominal mass
+partial paralysis
+asthenopia
+loss of vision
+hilar lymphadenitis
+cold clammy skin
+encephalitis
+necrosis
+prolonged thrombocytopenia
+dysuria
+generalized abdominal rigidity
+febrile convulsion
+incontinence without sensory awareness
+circling movement
+multiple sites abdominal lump
+acute cranial nerve dysfunction
+cytopenia
+reddening
+bloody stool
+hyponatremia
+swelling symptom
+acute mental dysfunction
+pain
+digestive system symptom
+loss of weight
+oliguria
+overflow incontinence
+spleen hemorrhages
+diffuse rash
+liver inflammation
+progressive prostration
+moderate conjuctival injection
+boil
+right lower quadrant abdominal rigidity
+swollen cervical lymphnodes
+severe necrosis
+abdominal lump
+voice disturbance
+abnormal hemistanding
+cardiogenic shock
+alteration of consciousness
+excessive crying of infant
+asthenia
+neck weakness
+peripheral muscle weakness
+cough with bloody sputum
+infertility
+chronic enteritis
+nutrition, metabolism, and development symptom
+multiple sites abdominal tenderness
+inability to speak
+inability to think clearly
+mild hypotension
+painful lymph glands
+plasmacytosis
+sclerodermoid plaques
+pharyngitis
+microangiopathic hemolytic anemia
+droopy ears
+right upper quadrant abdominal lump
+phantom pain
+myocarditis
+ventricular fibrillation
+pulmonary edema
+hypersomnia
+low blood pressure
+renal colic
+epigastric abdominal swelling
+abnormal chest sound
+genitourinary hemorrhage
+congested sclera
+tracheobronchitis
+spleen infiltrates
+anisocoria
+simple partial seizure
+severe pneumonia
+progressive weakness
+capillary leakage
+flaccid muscle tone
+inability to concentrate
+right lower quadrant abdominal tenderness
+dizziness
+lymphadenitis
+immune system symptom
+decreased motor response
+acute dyspnea
+hyperventilation
+fussy infant
+chronic fatigue syndrome
+dry mouth
+cyclic fever
+renal abscess
+phlegm
+allodynia
+rapid respiration
+renal failure
+sinusitis
+systemic infection
+arrested moulting
+hypersomnia with sleep apnea
+slight pyrexia
+continuous leakage of urine
+seizure
+spasticity
+cloudy cornea
+dermal abscess
+progressive emaciation
+palpebral edema
+nociceptive pain
+moderate anemia
+adenopathy
+abdominal swelling
+urethral discharge
+throat muscle paralysis
+conjunctivitis
+continuous profuse salivation
+necrosis of jejunum
+hypoalgesia
+localized superficial mass
+meningitis
+persistent vegetative state
+left upper quadrant abdominal tenderness
+muscle necrosis
+leukopenia
+cellulitis
+swelling in chest
+generalized abdominal mass
+metrorrhagia
+atonic seizure
+sudden onset of fever
+double vision
+throat symptom
+proximal paralysis of arm and leg
+upper respiratory distress
+darkening of skin
+excess lymphocytes in cerebrospinal fluid
+icteric skin
+change in body sensation
+throat pain
+lack of coordination
+reactive hyperemia
+dry mucous membrane
+alteration of appetite
+pneumonitis
+respiratory paralysis
+absence seizure
+decreased conscious proprioception
+severe abdominal cramp
+premature labor
+referred pain
+loss of consciousness
+suppurative pneumonia
+hyperemia of the neck
+sore eyes
+ulcerations
+hyperactivity
+sneezing
+thirst
+blister
+intense anxiety
+periumbilic abdominal rigidity
+mixed incontinence (female) (male)
+chills
+extravasation of urine
+decreased sucking
+epigastric abdominal tenderness
+hematogenous
+feces and droppings symptom
+severe conjunctivitis
+cornea symptom
+diminished gag reflex
+paraplegia
+prostatic infection
+flaccidity
+giddiness
+granulomatous inflammation
+painful reginal lymphadenopathy
+blotchy red rash
+localized superficial swelling
+hyperalgesia
+stress incontinence
+orthopnea
+excessive tearing
+hematemesis
+vesicles on hoof corona
+slight cough
+proprioception symptom
+hematuria
+stroke
+leg swelling
+cramp
+weak cry
+pallor
+urinary system symptom
+epigastric abdominal rigidity
+insomnia with sleep apnea
+convulsion
+occasional diplopia
+systemic necrosis
+endocarditis
+runny nose
+ataxia
+sinus tachycardia
+periumbilic abdominal lump
+depression
+nocturnal enuresis
+thymus symptom
+wasting
+fixed pupil
+limited attention
+severe chest pain
+pelvic swelling
+excess mucus in bronchi
+dyspareunia
+respiratory system and chest symptom
+hallucination
+appendicitis
+chest hyperemia
+facial tremor
+reflex symptom
+focal seizure
+profound weakness
+severe diarrhea
+hemorrhagic enteritis
+lymph gland swelling
+hypermenorrhea
+chronic pain
+steatorrhea
+absent gag reflex
+proteinuria
+visible peristalsis
+frontal headache
+hunched posture
+flat keratotic capsule
+cervical lymphadenopathy
+palate weakness
+neurological and physiological symptom
+sweaty
+head and neck symptom
+rash
+wobble
+thyroid symptom
+extreme fatigue
+postphlebitic ulcer
+disorientation
+ventricular tachycardia
+face hyperemia
+left lower quadrant abdominal pain
+behavioral symptom
+light sensitivity
+flushing
+drowsiness
+hemorrhage
+decreased pharyngeal tone
+periumbilic abdominal pain
+left lower quadrant abdominal swelling
+hemiwalking
+vaginismus
+hiccough
+spleen abscess
+transient fever
+complex partial seizure
+cardiomyocyte destruction
+flaccid limb paralysis
+wet droppings
+epigastric pelvic lump
+parotid pain
+knee pain
+hydrocephalus
+neurological alteration
+breathing problems
+weariness
+right upper quadrant pelvic mass
+hyperkeratotic plaques of surface of foot
+dyspneic enteritis
+hemodynamic instability
+rigidity hypokinesia
+amaurosis fugax
+itching
+transient alteration of awareness
+epigastric abdominal pain
+wound discharge
+low backache
+alexia
+pyrosis
+post-void dribbling
+bruise
+lump in chest
+watery diarrhea
+flaccid paralysis
+facial muscle twitching
+high fever
+pelvic mass
+exophthalmia
+conscious disturbance
+syncope and collapse
+repetitive behavior
+hopping
+hepatitis
+hemic and immune system symptom
+hemorrhage from throat
+loss of height
+inflammatory low back pain
+necrotic lesion
+dysarthria
+muscle symptom
+vascular lesions
+excess pericardial fluid
+hemiparesis
+mouth symptom
+renal alteration
+relapsing fever
+otitis
+multiple sites pelvic lump
+hemorrhagic gastroenteritis
+deafness
+decreased tongue tone
+lesions in thymus
+hyperpigmentation
+subconjunctival bleeding
+abnormal hemiwalking
+yellow dropping
+shock
+anasarca
+polydipsia
+memory loss
+conscious proprioception
+hepatosplenomegaly
+joint pain
+disturbances of sensation of smell and taste
+spontaneous ecchymoses
+elbow pain
+claudication
+multiple sites pelvic swelling
+respiratory failure
+feather loss
+hypoventilation
+edema
+change in skin color
+hemolysis
+periumbilic pelvic lump
+musculoskeletal system symptom
+torticollis
+leukocytosis
+catarrhal enteritis
+head swelling
+polyphagia
+miscarriage
+hyperesthesia
+lightheadedness
+generalized seizure
+muscle twitching
+mastitis
+lesions in oropharynx
+mild fever
+ill-thrift
+arthritis
+hoarse voice
+peritonitis
+transient fever
+left upper quadrant pelvic mass
+testicular pain
+anaphylactic shock
+abdominal discomfort
+generalized pelvic swelling
+recumbency
+ruffled feather
+loose droppings
+toothache
+abnormal weight gain
+right lower quadrant abdominal swelling
+polyuria
+extraocular muscles paralysis
+acute diarrhea
+tenesmus
+spontaneous abortion
+laryngotracheitis
+bloodshot eye
+bradypnea
+localized superficial lump
+jaundice
+tracheitis
+limb weakness
+muscle soreness
+periumbilic pelvic swelling
+left upper quadrant pelvic lump
+continuous fever
+persistent lymphocytosis
+retinal inflammation
+diminished spontaneous movement
+postural reaction
+hyperemia
+lethargy
+skin lesion
+vascular alteration
+generalized pelvic mass
+exophthalmos
+low-grade fever
+abnormal sputum
+right upper quadrant abdominal swelling
+abscess
+miosis
+tachycardia
+rectorrhagia
+eye strain
+impaired gag reflex
+low birth weight
+earache
+left upper quadrant abdominal mass
+eczema
+vertigo
+acute respiratory distress
+joint inflammation
+hyperpyrexia
+nasal congestion
+joint swelling
+lesions in lung
+shakes
+meningismus
+abortion
+left lower quadrant pelvic lump
+left upper quadrant pelvic swelling
+shoulder pain
+hepatomegaly
+diarrhea
+severe headache
+proliferative tracheitis
+arm weakness
+corneal opacity
+muscle tenderness
+parotid abscess
+head pressing
+mass in chest
+right lower quadrant pelvic swelling
+terminal ileitis
+abnormal behavior
+massive hepatic necrosis
+lack of expected normal physiological development in childhood
+aphonia
+bloody sputum
+urinary retention
+bifrontal headache
+agraphia
+body ache
+melena
+limb edema
+epigastric abdominal lump
+petechial hemorrhages
+rhinitis
+bradycardia
+nasal discharge
+periumbilic pelvic mass
+ventricular bradycardia
+muscle cramp
+ischemic necrosis of jejunum
+right upper quadrant abdominal pain
+left upper quadrant abdominal rigidity
+dysfunctions associated with sleep stages
+cranial nerve palsies
+portal hepatitis
+abdominal symptom
+insomnia
+keratitis
+proliferative skin lesions
+acute suppurative lesions
+absence of knee jerk reflex
+muscles ache
+left lower quadrant abdominal mass
+lymphangitis
+Pel-Epstein fever
+neurologic neglect syndrome
+acute weight loss
+anemia
+loss of balance
+mild encephalitis
+lesions in swim bladder
+periumbilic abdominal mass
+septic shock
+multiple sites abdominal pain
+sudden onset of fever
+coagulopathy
+impaired coordination
+epistaxis
+failure to thrive
+skin papules
+rales
+decreased appetite
+hemorrhagic diarrhea
+nystagmus
+poor feeding
+sudden ataxis
+skin desquamation
+active hyperemia
+paroxysmal tachycardia
+anomia
+ophthalmoplegia
+bronchitis
+left upper quadrant abdominal lump
+poor enunciation
+colic
+panting respiration
+mild tetanic convulsion
+neuropathic pain
+left lower quadrant abdominal lump
+expressive aphasia
+lymphoblastoma
+aggressive behavior
+mouth papules
+self-limiting liver inflammation
+dyspnea
+osteomyelitis
+facial weakness
+multiple abscesses
+nephritis
+sleep related movement disorder
+decreased milk production
+underweight
+urinary incontinence
+muscle pain
+microangiopathy
+chest pain
+gangrene
+delayed milestones
+left lower quadrant abdominal tenderness
+prostration
+ischemia
+atrial fibrillation
+loss of tendon reflex
+neurological dysfunction
+right lower quadrant abdominal mass
+sinus bradycardia
+abdominal distention
+inability to lie flat
+massive lymphadenopathy
+incomplete bladder emptying
+precordial pain
+brain cyst
+pleural effusion
+inability to form words
+spastic paralysis
+generalized abdominal lump
+bloody diarrhea
+dysphonia
+coordination symptom
+nasal discharge
+left upper quadrant abdominal pain
+heartburn
+sleep disturbance
+decreased facial sensation
+acute enteritis
+generalized abdominal swelling
+pareses
+salivary gland swelling
+bronchiolitis
+slurred speech
+loss of appetite
+severe backache
+bronchopneumonia
+congestion
+dilated pupil
+multiple organ failure
+nasal bleeding
+dysphagia
+receptive aphasia
+colicky pain
+papule
+motor weakness
+hemic system symptom
+blurred vision
+dysfunctions associated with arousal from sleep
+visceral pain
+hemorrhagic mediastinitis
+spondylitis
+pustular skin lesions
+blood vessel infection
+night sweats
+dehydration
+acute enteritis in newborns
+intraretinal hemorrhage
+junctional tachycardia
+right upper quadrant abdominal mass
+meningoencephalitis
+apnea
+vomiting
+muscle tightness
+chronic cough
+partial hind limb paralysis
+abdominal tenderness
+abnormal involuntary movement
+tetanic convulsion
+decreased flexor withdrawal reflex
+emaciation
+skin and integumentary tissue symptom
+respiratory abnormality
+diaphoresis
+bloody exudate
+neck swelling
+disruptions of 24-hour sleep-wake cycle
+abdominal pain
+general symptom
+decreased jaw tone
+acute gastroenteritis
+abnormal loss of weight and underweight
+tremor
+splitting of tissues
+corneal ulcers
+partial paralysis of the limbs
+severe joint pain
+abdominal cramp

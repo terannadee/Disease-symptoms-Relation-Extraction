@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Relation extractor">
+    <meta name="author" content="Teran Nadeesha">
+
+    <title>disease prediction system</title>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+
+<style>
+
+span {
+  display: block;
+  position: absolute;
+  top: calc(50% - 10em);
+  left: calc(50% - 10em);
+  width: 20em;
+  height: 20em;
+}
+
+span.spin {
+  -webkit-animation: spin 10s linear infinite;
+          animation: spin 10s linear infinite;
+}
+
+span.spin-reverse {
+  -webkit-animation: spin 30s linear infinite;
+          animation: spin 30s linear infinite;
+}
+
+span.pulse {
+  -webkit-animation: spin-pulse 20s linear infinite;
+          animation: spin-pulse 20s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotateZ(0);
+            transform: rotateZ(0);
+  }
+  100% {
+    -webkit-transform: rotateZ(360deg);
+            transform: rotateZ(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    -webkit-transform: rotateZ(0);
+            transform: rotateZ(0);
+  }
+  100% {
+    -webkit-transform: rotateZ(360deg);
+            transform: rotateZ(360deg);
+  }
+}
+@-webkit-keyframes spin-pulse {
+  0% {
+    -webkit-transform: scale(1) rotateZ(0);
+            transform: scale(1) rotateZ(0);
+  }
+  50% {
+    -webkit-transform: scale(0.9) rotateZ(180deg);
+            transform: scale(0.9) rotateZ(180deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotateZ(360deg);
+            transform: scale(1) rotateZ(360deg);
+  }
+}
+@keyframes spin-pulse {
+  0% {
+    -webkit-transform: scale(1) rotateZ(0);
+            transform: scale(1) rotateZ(0);
+  }
+  50% {
+    -webkit-transform: scale(0.9) rotateZ(180deg);
+            transform: scale(0.9) rotateZ(180deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotateZ(360deg);
+            transform: scale(1) rotateZ(360deg);
+  }
+}
+body {
+  background: #eafdff;
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #fff;
+  font-size: 24px;
+    /*background-size: auto;*/
+}
+
+.circle {
+  border-radius: 50%;
+  left: calc(50% - 6.25em);
+  top: calc(50% - 12.5em);
+  -webkit-transform-origin: 50% 12.5em;
+          transform-origin: 50% 12.5em;
+}
+
+.squircle {
+  border-radius: 1%;
+}
+
+.circle, .squircle {
+  width: 12.5em;
+  height: 12.5em;
+  position: absolute;
+  border-top: 0.1em solid rgba(255, 255, 255, 0.4);
+}
+
+.large.circle {
+  box-shadow: 0 1em 2em rgba(0, 0, 0, 0.5);
+}
+
+.small {
+  width: 4em;
+  height: 4em;
+  left: calc(50% - 2em);
+  top: calc(50% - 15em);
+  -webkit-transform-origin: 50% 15em;
+          transform-origin: 50% 15em;
+  box-shadow: 0 0.25em 0.5em rgba(0, 0, 0, 0.2);
+}
+
+.one {
+  background: rgba(16, 63, 236, 0.75);
+  -webkit-transform: rotateZ(225deg);
+          transform: rotateZ(225deg);
+}
+
+.two {
+  background: rgba(37, 172, 162, 0.75);
+  -webkit-transform: rotateZ(180deg);
+          transform: rotateZ(180deg);
+}
+
+.three {
+  background: rgba(233, 124, 32, 0.75);
+  -webkit-transform: rotateZ(135deg);
+          transform: rotateZ(135deg);
+}
+
+.four {
+  background: rgba(235, 67, 35, 0.75);
+  -webkit-transform: rotateZ(90deg);
+          transform: rotateZ(90deg);
+}
+
+.five {
+  background: rgba(190, 28, 65, 0.75);
+  -webkit-transform: rotateZ(45deg);
+          transform: rotateZ(45deg);
+}
+
+.six {
+  background: rgba(208, 57, 159, 0.75);
+  -webkit-transform: rotateZ(0);
+          transform: rotateZ(0);
+}
+
+.seven {
+  background: rgba(150, 32, 198, 0.75);
+  -webkit-transform: rotateZ(-45deg);
+          transform: rotateZ(-45deg);
+}
+
+.eight {
+  background: rgba(95, 33, 203, 0.75);
+  -webkit-transform: rotateZ(-90deg);
+          transform: rotateZ(-90deg);
+}
+
+.small.squircle {
+  background: none;
+  box-shadow: none;
+}
+.small.squircle::after {
+  content: "";
+  border-radius: 25%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: red;
+  -webkit-transform: rotateZ(-45deg);
+          transform: rotateZ(-45deg);
+  box-shadow: -0.25em 0.25em 0.5em rgba(0, 0, 0, 0.2);
+}
+.small.squircle.two::after {
+  background: rgba(37, 172, 162, 0.75);
+}
+.small.squircle.four::after {
+  background: rgba(235, 67, 35, 0.75);
+}
+.small.squircle.six::after {
+  background: rgba(208, 57, 159, 0.75);
+}
+.small.squircle.eight::after {
+  background: rgba(95, 33, 203, 0.75);
+}
+
+.large.squircle {
+  position: absolute;
+  background: rgba(30, 7, 66, 0.65);
+  border: none;
+  left: calc(50% - 15.6em);
+  top: calc(50% - 7.5em);
+  width: 32em;
+  height: 15em;
+  -webkit-transform: none;
+          transform: none;
+}
+.large.squircle.one {
+  -webkit-transform: rotateZ(45deg);
+          transform: rotateZ(45deg);
+}
+
+.content {
+  text-align: center;
+}
+.content svg {
+  fill: #fff;
+  width: 3em;
+  margin: 1.25em auto 1em;
+}
+.content h1 {
+  font-weight: lighter;
+  font-size: 1.75em;
+  margin: 1.5em auto 0.5em;
+  /*max-width: 6em;*/
+}
+
+.content h4 {
+  font-weight: lighter;
+  /*font-size: 1.75em;*/
+  margin: 1.5em auto 1.5em;
+  /*max-width: 6em;*/
+}
+.message {
+  position: absolute;
+  left: 1em;
+  bottom: 1em;
+  right: 0;
+  color: #222;
+  text-align: left;
+}
+.message a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #999;
+}
+  #load {
+  position:absolute;
+  width:600px;
+  height:36px;
+  left:50%;
+  /*top:40%;*/
+  margin-left:-300px;
+  overflow:visible;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+  cursor:default;
+}
+
+#load div {
+  position:absolute;
+  width:20px;
+  height:36px;
+  opacity:0;
+  font-family:Helvetica, Arial, sans-serif;
+  animation:move 2s linear infinite;
+  -o-animation:move 2s linear infinite;
+  -moz-animation:move 2s linear infinite;
+  -webkit-animation:move 2s linear infinite;
+  transform:rotate(180deg);
+  -o-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -webkit-transform:rotate(180deg);
+  color:#35C4F0;
+}
+
+#load div:nth-child(2) {
+  animation-delay:0.2s;
+  -o-animation-delay:0.2s;
+  -moz-animation-delay:0.2s;
+  -webkit-animation-delay:0.2s;
+}
+#load div:nth-child(3) {
+  animation-delay:0.4s;
+  -o-animation-delay:0.4s;
+  -moz-animation-delay:0.4s;
+  -webkit-animation-delay:0.4s;
+}
+#load div:nth-child(4) {
+  animation-delay:0.6s;
+  -o-animation-delay:0.6s;
+  -moz-animation-delay:0.6s;
+  -webkit-animation-delay:0.6s;
+}
+#load div:nth-child(5) {
+  animation-delay:0.8s;
+  -o-animation-delay:0.8s;
+  -moz-animation-delay:0.8s;
+  -webkit-animation-delay:0.8s;
+}
+#load div:nth-child(6) {
+  animation-delay:1s;
+  -o-animation-delay:1s;
+  -moz-animation-delay:1s;
+  -webkit-animation-delay:1s;
+}
+#load div:nth-child(7) {
+  animation-delay:1.2s;
+  -o-animation-delay:1.2s;
+  -moz-animation-delay:1.2s;
+  -webkit-animation-delay:1.2s;
+}
+
+@keyframes move {
+  0% {
+    left:0;
+    opacity:0;
+  }
+	35% {
+		left: 41%;
+		-moz-transform:rotate(0deg);
+		-webkit-transform:rotate(0deg);
+		-o-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	65% {
+		left:59%;
+		-moz-transform:rotate(0deg);
+		-webkit-transform:rotate(0deg);
+		-o-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	100% {
+		left:100%;
+		-moz-transform:rotate(-180deg);
+		-webkit-transform:rotate(-180deg);
+		-o-transform:rotate(-180deg);
+		transform:rotate(-180deg);
+		opacity:0;
+	}
+}
+
+@-moz-keyframes move {
+	0% {
+		left:0;
+		opacity:0;
+	}
+	35% {
+		left:41%;
+		-moz-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	65% {
+		left:59%;
+		-moz-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	100% {
+		left:100%;
+		-moz-transform:rotate(-180deg);
+		transform:rotate(-180deg);
+		opacity:0;
+	}
+}
+
+@-webkit-keyframes move {
+	0% {
+		left:0;
+		opacity:0;
+	}
+	35% {
+		left:41%;
+		-webkit-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	65% {
+		left:59%;
+		-webkit-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	100% {
+		left:100%;
+		-webkit-transform:rotate(-180deg);
+		transform:rotate(-180deg);
+		opacity:0;
+	}
+}
+
+@-o-keyframes move {
+	0% {
+		left:0;
+		opacity:0;
+	}
+	35% {
+		left:41%;
+		-o-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	65% {
+		left:59%;
+		-o-transform:rotate(0deg);
+		transform:rotate(0deg);
+		opacity:1;
+	}
+	100% {
+		left:100%;
+		-o-transform:rotate(-180deg);
+		transform:rotate(-180deg);
+		opacity:0;
+	}
+}
+  canvas {
+  display: block;
+  vertical-align: bottom;
+}
+#particles-js {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-color: #fff;
+}
+
+</style>
+</head>
+<body>
+<div id="particles-js">
+</div>
+  <article >
+    <span class="spin" style="display: none;" >
+      <!-- Large Circles -->
+      <div class="large circle one"></div>
+      <div class="large circle two"></div>
+      <div class="large circle three"></div>
+      <div class="large circle four"></div>
+      <div class="large circle five"></div>
+      <div class="large circle six"></div>
+      <div class="large circle seven"></div>
+      <div class="large circle eight"></div>
+    </span>
+    <span class="pulse" style="display: none;">
+      <!-- Small Shapes -->
+      <div class="small circle one"></div>
+      <div class="small squircle two"></div>
+      <div class="small circle three"></div>
+      <div class="small squircle four"></div>
+      <div class="small circle five"></div>
+      <div class="small squircle six"></div>
+      <div class="small circle seven"></div>
+      <div class="small squircle eight"></div>
+    </span>
+      <div class="large squircle two">
+        <div class="content">
+        <h1>Biomedical Relationships Extraction</h1>
+        <h4>Scraping Research Articles and Extracting Relationships for evolving Ontology</h4>
+          <div class="row">
+          <!--<div class=" col-sm-6" >-->
+            <form action="/c_search" method="POST">
+              <input type="submit" name="submit1" id="start_custom"  class="btn btn-primary btn-lg" value="Start Extraction" style="padding: 12px 31px; font-size: 21px;">
+            </form>
+          <!--</div>-->
+          <!--<div class="col-sm-5 ">-->
+         <!--<form action="/a_search" method="POST">-->
+              <!--<input type="submit" name="submit2" id="start_article" class="btn btn-primary btn-lg" value="Start pubmed search">-->
+         <!--</form>-->
+          <!--</div>-->
+          </div>
+      </div>
+        <div class="content" style="padding-top: 5%">
+        <div id="load" style="display: none;">
+          <div>T</div>
+          <div>C</div>
+          <div>A</div>
+          <div>R</div>
+          <div>T</div>
+          <div>X</div>
+          <div>E</div>
+        </div>
+          </div>
+    </div>
+  </article>
+<script >
+
+    $("#start_custom").click(function() {
+        $("#load").show();
+        setTimeout(function() {
+        $("span").show();
+        }, 5000);
+    });
+
+
+    $("#start_article").click(function() {
+        $("span").show();
+        $("#load").show();
+    });
+
+ particlesJS("particles-js", {
+  "particles": {
+    "number": {
+      "value": 40,
+      "density": {
+        "enable": true,
+        "value_area": 800
+      }
+    },
+    "color": {
+      "value": "#333333"
+    },
+    "shape": {
+      "type": "circle",
+      "stroke": {
+        "width": 0,
+        "color": "#000000"
+      },
+      "polygon": {
+        "nb_sides": 5
+      },
+      "image": {
+        "src": "img/github.svg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    "opacity": {
+      "value": 0.5,
+      "random": false,
+      "anim": {
+        "enable": false,
+        "speed": 1,
+        "opacity_min": 0.1,
+        "sync": false
+      }
+    },
+    "size": {
+      "value": 3,
+      "random": true,
+      "anim": {
+        "enable": false,
+        "speed": 40,
+        "size_min": 0.1,
+        "sync": false
+      }
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 150,
+      "color": "#18117a",
+      "opacity": 0.5,
+      "width": 1
+    },
+    "move": {
+      "enable": true,
+      "speed": 4,
+      "direction": "none",
+      "random": false,
+      "straight": false,
+      "out_mode": "out",
+      "attract": {
+        "enable": false,
+        "rotateX": 600,
+        "rotateY": 1200
+      }
+    }
+  },
+  "interactivity": {
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "grab"
+      },
+      "onclick": {
+        "enable": true,
+        "mode": "push"
+      },
+      "resize": true
+    },
+    "modes": {
+      "grab": {
+        "distance": 400,
+        "line_linked": {
+          "opacity": 1
+        }
+      },
+      "bubble": {
+        "distance": 400,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
+        "speed": 3
+      },
+      "repulse": {
+        "distance": 200
+      },
+      "push": {
+        "particles_nb": 4
+      },
+      "remove": {
+        "particles_nb": 2
+      }
+    }
+  },
+  "retina_detect": true,
+  "config_demo": {
+    "hide_card": false,
+    "background_color": "#b61924",
+    "background_image": "",
+    "background_position": "50% 50%",
+    "background_repeat": "no-repeat",
+    "background_size": "cover"
+  }
+});
+</script>
+</body>
+</html>
