@@ -3,7 +3,7 @@ import re
 from nltk.corpus import stopwords
 from idintify_entities import identify_entities
 from classifier import classify
-from symptom_tagger.TextAnalyse.fuzzy import benchmark_fuzzy_match
+from symptom_tagger.TextAnalyse.fuzzy import symptoms_tagger
 
 
 ds_patterns = []
@@ -29,7 +29,7 @@ Abstracts = ["" for x in range(6)]
 
 def identify_sentences(disease, text):
 
-    tagged_text = benchmark_fuzzy_match(text)
+    tagged_text = symptoms_tagger(text)
     context = nltk.sent_tokenize(tagged_text)
     content = ""
     for sent in context:
