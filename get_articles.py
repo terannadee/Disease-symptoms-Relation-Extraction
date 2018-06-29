@@ -45,4 +45,4 @@ def ext_articles():
     return relations
 
 
-ext_articles()
+# ext_articles()

@@ -6,8 +6,8 @@ from identify_sentence import identify_sentences
 import re
 
 # http://cse.google.com/
-my_api_key = "AIzaSyBvXH583ijsh2TG4gs1LqcC4g86uk_G0ck"
-my_cse_id = "002650997601401057776:hrwppggkwls"
+my_api_key = "********************"
+my_cse_id = "*******************"
 
 
 # open the files
@@ -124,5 +124,4 @@ def do_search():
     return relations
 
 
-
-do_search()
+# do_search()
